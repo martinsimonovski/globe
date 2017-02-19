@@ -1,0 +1,5588 @@
+[
+    {
+        "capital": "Kabul",
+        "name": "Afghanistan",
+        "currencies": [
+            "AFN"
+        ],
+        "timezones": [
+            "UTC+04:30"
+        ],
+        "languages": [
+            "ps",
+            "uz",
+            "tk"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "93"
+        ],
+        "numericCode": 4,
+        "abbrevation": {
+            "alpha3Code": "afg",
+            "alpha2Code": "af"
+        }
+    },
+    {
+        "capital": "Tirana",
+        "name": "Albania",
+        "currencies": [
+            "ALL"
+        ],
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "languages": [
+            "sq"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "355"
+        ],
+        "numericCode": 8,
+        "abbrevation": {
+            "alpha3Code": "alb",
+            "alpha2Code": "al"
+        }
+    },
+    {
+        "capital": "Algiers",
+        "name": "Algeria",
+        "currencies": [
+            "DZD"
+        ],
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "languages": [
+            "ar"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "213"
+        ],
+        "numericCode": 12,
+        "abbrevation": {
+            "alpha3Code": "dza",
+            "alpha2Code": "dz"
+        }
+    },
+    {
+        "capital": "Pago Pago",
+        "name": "American Samoa",
+        "currencies": [
+            "USD"
+        ],
+        "timezones": [
+            "UTC-11:00"
+        ],
+        "languages": [
+            "en",
+            "sm"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "1684"
+        ],
+        "numericCode": 16,
+        "abbrevation": {
+            "alpha3Code": "asm",
+            "alpha2Code": "as"
+        }
+    },
+    {
+        "capital": "Andorra la Vella",
+        "name": "Andorra",
+        "currencies": [
+            "EUR"
+        ],
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "languages": [
+            "ca"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "376"
+        ],
+        "numericCode": 20,
+        "abbrevation": {
+            "alpha3Code": "and",
+            "alpha2Code": "ad"
+        }
+    },
+    {
+        "capital": "Luanda",
+        "name": "Angola",
+        "currencies": [
+            "AOA"
+        ],
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "languages": [
+            "pt"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "244"
+        ],
+        "numericCode": 24,
+        "abbrevation": {
+            "alpha3Code": "ago",
+            "alpha2Code": "ao"
+        }
+    },
+    {
+        "capital": "The Valley",
+        "name": "Anguilla",
+        "currencies": [
+            "XCD"
+        ],
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "languages": [
+            "en"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "1264"
+        ],
+        "numericCode": 660,
+        "abbrevation": {
+            "alpha3Code": "aia",
+            "alpha2Code": "ai"
+        }
+    },
+    {
+        "capital": "",
+        "name": "Antarctica",
+        "currencies": [
+            "AUD",
+            "GBP"
+        ],
+        "timezones": [
+            "UTC-03:00",
+            "UTC+03:00",
+            "UTC+05:00",
+            "UTC+06:00",
+            "UTC+07:00",
+            "UTC+08:00",
+            "UTC+10:00",
+            "UTC+12:00"
+        ],
+        "languages": [
+            "en"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [],
+        "numericCode": 10,
+        "abbrevation": {
+            "alpha3Code": "ata",
+            "alpha2Code": "aq"
+        }
+    },
+    {
+        "capital": "Saint John's",
+        "name": "Antigua and Barbuda",
+        "currencies": [
+            "XCD"
+        ],
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "languages": [
+            "en"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "1268"
+        ],
+        "numericCode": 28,
+        "abbrevation": {
+            "alpha3Code": "atg",
+            "alpha2Code": "ag"
+        }
+    },
+    {
+        "capital": "Buenos Aires",
+        "name": "Argentina",
+        "currencies": [
+            "ARS"
+        ],
+        "timezones": [
+            "UTC-03:00"
+        ],
+        "languages": [
+            "es",
+            "gn"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "54"
+        ],
+        "numericCode": 32,
+        "abbrevation": {
+            "alpha3Code": "arg",
+            "alpha2Code": "ar"
+        }
+    },
+    {
+        "capital": "Yerevan",
+        "name": "Armenia",
+        "currencies": [
+            "AMD"
+        ],
+        "timezones": [
+            "UTC+04:00"
+        ],
+        "languages": [
+            "hy",
+            "ru"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "374"
+        ],
+        "numericCode": 51,
+        "abbrevation": {
+            "alpha3Code": "arm",
+            "alpha2Code": "am"
+        }
+    },
+    {
+        "capital": "Oranjestad",
+        "name": "Aruba",
+        "currencies": [
+            "AWG"
+        ],
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "languages": [
+            "nl",
+            "pa"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "297"
+        ],
+        "numericCode": 533,
+        "abbrevation": {
+            "alpha3Code": "abw",
+            "alpha2Code": "aw"
+        }
+    },
+    {
+        "capital": "Canberra",
+        "name": "Australia",
+        "currencies": [
+            "AUD"
+        ],
+        "timezones": [
+            "UTC+05:00",
+            "UTC+06:30",
+            "UTC+07:00",
+            "UTC+08:00",
+            "UTC+09:30",
+            "UTC+10:00",
+            "UTC+10:30",
+            "UTC+11:30"
+        ],
+        "languages": [
+            "en"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "61"
+        ],
+        "numericCode": 36,
+        "abbrevation": {
+            "alpha3Code": "aus",
+            "alpha2Code": "au"
+        }
+    },
+    {
+        "capital": "Vienna",
+        "name": "Austria",
+        "currencies": [
+            "EUR"
+        ],
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "languages": [
+            "de"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "43"
+        ],
+        "numericCode": 40,
+        "abbrevation": {
+            "alpha3Code": "aut",
+            "alpha2Code": "at"
+        }
+    },
+    {
+        "capital": "Baku",
+        "name": "Azerbaijan",
+        "currencies": [
+            "AZN"
+        ],
+        "timezones": [
+            "UTC+04:00"
+        ],
+        "languages": [
+            "az"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "994"
+        ],
+        "numericCode": 31,
+        "abbrevation": {
+            "alpha3Code": "aze",
+            "alpha2Code": "az"
+        }
+    },
+    {
+        "capital": "Manama",
+        "name": "Bahrain",
+        "currencies": [
+            "BHD"
+        ],
+        "timezones": [
+            "UTC+03:00"
+        ],
+        "languages": [
+            "ar"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "973"
+        ],
+        "numericCode": 48,
+        "abbrevation": {
+            "alpha3Code": "bhr",
+            "alpha2Code": "bh"
+        }
+    },
+    {
+        "capital": "Dhaka",
+        "name": "Bangladesh",
+        "currencies": [
+            "BDT"
+        ],
+        "timezones": [
+            "UTC+06:00"
+        ],
+        "languages": [
+            "bn"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "880"
+        ],
+        "numericCode": 50,
+        "abbrevation": {
+            "alpha3Code": "bgd",
+            "alpha2Code": "bd"
+        }
+    },
+    {
+        "capital": "Bridgetown",
+        "name": "Barbados",
+        "currencies": [
+            "BBD"
+        ],
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "languages": [
+            "en"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "1246"
+        ],
+        "numericCode": 52,
+        "abbrevation": {
+            "alpha3Code": "brb",
+            "alpha2Code": "bb"
+        }
+    },
+    {
+        "capital": "Minsk",
+        "name": "Belarus",
+        "currencies": [
+            "BYR"
+        ],
+        "timezones": [
+            "UTC+03:00"
+        ],
+        "languages": [
+            "be",
+            "ru"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "375"
+        ],
+        "numericCode": 112,
+        "abbrevation": {
+            "alpha3Code": "blr",
+            "alpha2Code": "by"
+        }
+    },
+    {
+        "capital": "Brussels",
+        "name": "Belgium",
+        "currencies": [
+            "EUR"
+        ],
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "languages": [
+            "nl",
+            "fr",
+            "de"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "32"
+        ],
+        "numericCode": 56,
+        "abbrevation": {
+            "alpha3Code": "bel",
+            "alpha2Code": "be"
+        }
+    },
+    {
+        "capital": "Belmopan",
+        "name": "Belize",
+        "currencies": [
+            "BZD"
+        ],
+        "timezones": [
+            "UTC-06:00"
+        ],
+        "languages": [
+            "en",
+            "es"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "501"
+        ],
+        "numericCode": 84,
+        "abbrevation": {
+            "alpha3Code": "blz",
+            "alpha2Code": "bz"
+        }
+    },
+    {
+        "capital": "Porto-Novo",
+        "name": "Benin",
+        "currencies": [
+            "XOF"
+        ],
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "languages": [
+            "fr"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "229"
+        ],
+        "numericCode": 204,
+        "abbrevation": {
+            "alpha3Code": "ben",
+            "alpha2Code": "bj"
+        }
+    },
+    {
+        "capital": "Hamilton",
+        "name": "Bermuda",
+        "currencies": [
+            "BMD"
+        ],
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "languages": [
+            "en"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "1441"
+        ],
+        "numericCode": 60,
+        "abbrevation": {
+            "alpha3Code": "bmu",
+            "alpha2Code": "bm"
+        }
+    },
+    {
+        "capital": "Thimphu",
+        "name": "Bhutan",
+        "currencies": [
+            "BTN",
+            "INR"
+        ],
+        "timezones": [
+            "UTC+06:00"
+        ],
+        "languages": [
+            "dz"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "975"
+        ],
+        "numericCode": 64,
+        "abbrevation": {
+            "alpha3Code": "btn",
+            "alpha2Code": "bt"
+        }
+    },
+    {
+        "capital": "Sucre",
+        "name": "Bolivia",
+        "currencies": [
+            "BOB",
+            "BOV"
+        ],
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "languages": [
+            "es",
+            "ay",
+            "qu"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "591"
+        ],
+        "numericCode": 68,
+        "abbrevation": {
+            "alpha3Code": "bol",
+            "alpha2Code": "bo"
+        }
+    },
+    {
+        "capital": "Kralendijk",
+        "name": "Bonaire",
+        "currencies": [
+            "USD"
+        ],
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "languages": [
+            "nl"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "5997"
+        ],
+        "numericCode": 535,
+        "abbrevation": {
+            "alpha3Code": "bes",
+            "alpha2Code": "bq"
+        }
+    },
+    {
+        "capital": "Sarajevo",
+        "name": "Bosnia and Herzegovina",
+        "currencies": [
+            "BAM"
+        ],
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "languages": [
+            "bs",
+            "hr",
+            "sr"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "387"
+        ],
+        "numericCode": 70,
+        "abbrevation": {
+            "alpha3Code": "bih",
+            "alpha2Code": "ba"
+        }
+    },
+    {
+        "capital": "Gaborone",
+        "name": "Botswana",
+        "currencies": [
+            "BWP"
+        ],
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "languages": [
+            "en",
+            "tn"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "267"
+        ],
+        "numericCode": 72,
+        "abbrevation": {
+            "alpha3Code": "bwa",
+            "alpha2Code": "bw"
+        }
+    },
+    {
+        "capital": "Brasília",
+        "name": "Brazil",
+        "currencies": [
+            "BRL"
+        ],
+        "timezones": [
+            "UTC-05:00",
+            "UTC-04:00",
+            "UTC-03:00",
+            "UTC-02:00"
+        ],
+        "languages": [
+            "pt"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "55"
+        ],
+        "numericCode": 76,
+        "abbrevation": {
+            "alpha3Code": "bra",
+            "alpha2Code": "br"
+        }
+    },
+    {
+        "capital": "Diego Garcia",
+        "name": "British Indian Ocean Territory",
+        "currencies": [
+            "USD"
+        ],
+        "timezones": [
+            "UTC+06:00"
+        ],
+        "languages": [
+            "en"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "246"
+        ],
+        "numericCode": 86,
+        "abbrevation": {
+            "alpha3Code": "iot",
+            "alpha2Code": "io"
+        }
+    },
+    {
+        "capital": "Bandar Seri Begawan",
+        "name": "Brunei",
+        "currencies": [
+            "BND"
+        ],
+        "timezones": [
+            "UTC+08:00"
+        ],
+        "languages": [
+            "ms"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "673"
+        ],
+        "numericCode": 96,
+        "abbrevation": {
+            "alpha3Code": "brn",
+            "alpha2Code": "bn"
+        }
+    },
+    {
+        "capital": "Sofia",
+        "name": "Bulgaria",
+        "currencies": [
+            "BGN"
+        ],
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "languages": [
+            "bg"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "359"
+        ],
+        "numericCode": 100,
+        "abbrevation": {
+            "alpha3Code": "bgr",
+            "alpha2Code": "bg"
+        }
+    },
+    {
+        "capital": "Ouagadougou",
+        "name": "Burkina Faso",
+        "currencies": [
+            "XOF"
+        ],
+        "timezones": [
+            "UTC"
+        ],
+        "languages": [
+            "fr",
+            "ff"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "226"
+        ],
+        "numericCode": 854,
+        "abbrevation": {
+            "alpha3Code": "bfa",
+            "alpha2Code": "bf"
+        }
+    },
+    {
+        "capital": "Bujumbura",
+        "name": "Burundi",
+        "currencies": [
+            "BIF"
+        ],
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "languages": [
+            "fr",
+            "rn"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "257"
+        ],
+        "numericCode": 108,
+        "abbrevation": {
+            "alpha3Code": "bdi",
+            "alpha2Code": "bi"
+        }
+    },
+    {
+        "capital": "Phnom Penh",
+        "name": "Cambodia",
+        "currencies": [
+            "KHR"
+        ],
+        "timezones": [
+            "UTC+07:00"
+        ],
+        "languages": [
+            "km"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "855"
+        ],
+        "numericCode": 116,
+        "abbrevation": {
+            "alpha3Code": "khm",
+            "alpha2Code": "kh"
+        }
+    },
+    {
+        "capital": "Yaoundé",
+        "name": "Cameroon",
+        "currencies": [
+            "XAF"
+        ],
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "languages": [
+            "en",
+            "fr"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "237"
+        ],
+        "numericCode": 120,
+        "abbrevation": {
+            "alpha3Code": "cmr",
+            "alpha2Code": "cm"
+        }
+    },
+    {
+        "capital": "Ottawa",
+        "name": "Canada",
+        "currencies": [
+            "CAD"
+        ],
+        "timezones": [
+            "UTC-08:00",
+            "UTC-07:00",
+            "UTC-06:00",
+            "UTC-05:00",
+            "UTC-04:00",
+            "UTC-03:30"
+        ],
+        "languages": [
+            "en",
+            "fr"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "1"
+        ],
+        "numericCode": 124,
+        "abbrevation": {
+            "alpha3Code": "can",
+            "alpha2Code": "ca"
+        }
+    },
+    {
+        "capital": "Praia",
+        "name": "Cape Verde",
+        "currencies": [
+            "CVE"
+        ],
+        "timezones": [
+            "UTC-01:00"
+        ],
+        "languages": [
+            "pt"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "238"
+        ],
+        "numericCode": 132,
+        "abbrevation": {
+            "alpha3Code": "cpv",
+            "alpha2Code": "cv"
+        }
+    },
+    {
+        "capital": "George Town",
+        "name": "Cayman Islands",
+        "currencies": [
+            "KYD"
+        ],
+        "timezones": [
+            "UTC-05:00"
+        ],
+        "languages": [
+            "en"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "1345"
+        ],
+        "numericCode": 136,
+        "abbrevation": {
+            "alpha3Code": "cym",
+            "alpha2Code": "ky"
+        }
+    },
+    {
+        "capital": "Bangui",
+        "name": "Central African Republic",
+        "currencies": [
+            "XAF"
+        ],
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "languages": [
+            "fr",
+            "sg"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "236"
+        ],
+        "numericCode": 140,
+        "abbrevation": {
+            "alpha3Code": "caf",
+            "alpha2Code": "cf"
+        }
+    },
+    {
+        "capital": "N'Djamena",
+        "name": "Chad",
+        "currencies": [
+            "XAF"
+        ],
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "languages": [
+            "fr",
+            "ar"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "235"
+        ],
+        "numericCode": 148,
+        "abbrevation": {
+            "alpha3Code": "tcd",
+            "alpha2Code": "td"
+        }
+    },
+    {
+        "capital": "Santiago",
+        "name": "Chile",
+        "currencies": [
+            "CLF",
+            "CLP"
+        ],
+        "timezones": [
+            "UTC-06:00",
+            "UTC-04:00"
+        ],
+        "languages": [
+            "es"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "56"
+        ],
+        "numericCode": 152,
+        "abbrevation": {
+            "alpha3Code": "chl",
+            "alpha2Code": "cl"
+        }
+    },
+    {
+        "capital": "Beijing",
+        "name": "China",
+        "currencies": [
+            "CNY"
+        ],
+        "timezones": [
+            "UTC+08:00"
+        ],
+        "languages": [
+            "zh"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "86"
+        ],
+        "numericCode": 156,
+        "abbrevation": {
+            "alpha3Code": "chn",
+            "alpha2Code": "cn"
+        }
+    },
+    {
+        "capital": "Flying Fish Cove",
+        "name": "Christmas Island",
+        "currencies": [
+            "AUD"
+        ],
+        "timezones": [
+            "UTC+07:00"
+        ],
+        "languages": [
+            "en"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "61"
+        ],
+        "numericCode": 162,
+        "abbrevation": {
+            "alpha3Code": "cxr",
+            "alpha2Code": "cx"
+        }
+    },
+    {
+        "capital": "West Island",
+        "name": "Cocos (Keeling) Islands",
+        "currencies": [
+            "AUD"
+        ],
+        "timezones": [
+            "UTC+06:30"
+        ],
+        "languages": [
+            "en"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "61"
+        ],
+        "numericCode": 166,
+        "abbrevation": {
+            "alpha3Code": "cck",
+            "alpha2Code": "cc"
+        }
+    },
+    {
+        "capital": "Bogotá",
+        "name": "Colombia",
+        "currencies": [
+            "COP"
+        ],
+        "timezones": [
+            "UTC-05:00"
+        ],
+        "languages": [
+            "es"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "57"
+        ],
+        "numericCode": 170,
+        "abbrevation": {
+            "alpha3Code": "col",
+            "alpha2Code": "co"
+        }
+    },
+    {
+        "capital": "Moroni",
+        "name": "Comoros",
+        "currencies": [
+            "KMF"
+        ],
+        "timezones": [
+            "UTC+03:00"
+        ],
+        "languages": [
+            "ar",
+            "fr"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "269"
+        ],
+        "numericCode": 174,
+        "abbrevation": {
+            "alpha3Code": "com",
+            "alpha2Code": "km"
+        }
+    },
+    {
+        "capital": "Avarua",
+        "name": "Cook Islands",
+        "currencies": [
+            "NZD"
+        ],
+        "timezones": [
+            "UTC-10:00"
+        ],
+        "languages": [
+            "en"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "682"
+        ],
+        "numericCode": 184,
+        "abbrevation": {
+            "alpha3Code": "cok",
+            "alpha2Code": "ck"
+        }
+    },
+    {
+        "capital": "San José",
+        "name": "Costa Rica",
+        "currencies": [
+            "CRC"
+        ],
+        "timezones": [
+            "UTC-06:00"
+        ],
+        "languages": [
+            "es"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "506"
+        ],
+        "numericCode": 188,
+        "abbrevation": {
+            "alpha3Code": "cri",
+            "alpha2Code": "cr"
+        }
+    },
+    {
+        "capital": "Zagreb",
+        "name": "Croatia",
+        "currencies": [
+            "HRK"
+        ],
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "languages": [
+            "hr"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "385"
+        ],
+        "numericCode": 191,
+        "abbrevation": {
+            "alpha3Code": "hrv",
+            "alpha2Code": "hr"
+        }
+    },
+    {
+        "capital": "Havana",
+        "name": "Cuba",
+        "currencies": [
+            "CUC",
+            "CUP"
+        ],
+        "timezones": [
+            "UTC-05:00"
+        ],
+        "languages": [
+            "es"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "53"
+        ],
+        "numericCode": 192,
+        "abbrevation": {
+            "alpha3Code": "cub",
+            "alpha2Code": "cu"
+        }
+    },
+    {
+        "capital": "Willemstad",
+        "name": "Curaçao",
+        "currencies": [
+            "ANG"
+        ],
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "languages": [
+            "nl",
+            "pa",
+            "en"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "599"
+        ],
+        "numericCode": 531,
+        "abbrevation": {
+            "alpha3Code": "cuw",
+            "alpha2Code": "cw"
+        }
+    },
+    {
+        "capital": "Nicosia",
+        "name": "Cyprus",
+        "currencies": [
+            "EUR"
+        ],
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "languages": [
+            "el",
+            "tr",
+            "hy"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "357"
+        ],
+        "numericCode": 196,
+        "abbrevation": {
+            "alpha3Code": "cyp",
+            "alpha2Code": "cy"
+        }
+    },
+    {
+        "capital": "Prague",
+        "name": "Czech Republic",
+        "currencies": [
+            "CZK"
+        ],
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "languages": [
+            "cs",
+            "sk"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "420"
+        ],
+        "numericCode": 203,
+        "abbrevation": {
+            "alpha3Code": "cze",
+            "alpha2Code": "cz"
+        }
+    },
+    {
+        "capital": "Kinshasa",
+        "name": "Democratic Republic of the Congo",
+        "currencies": [
+            "CDF"
+        ],
+        "timezones": [
+            "UTC+01:00",
+            "UTC+02:00"
+        ],
+        "languages": [
+            "fr",
+            "ln",
+            "kg",
+            "sw",
+            "lu"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "243"
+        ],
+        "numericCode": 180,
+        "abbrevation": {
+            "alpha3Code": "cod",
+            "alpha2Code": "cd"
+        }
+    },
+    {
+        "capital": "Copenhagen",
+        "name": "Denmark",
+        "currencies": [
+            "DKK"
+        ],
+        "timezones": [
+            "UTC-04:00",
+            "UTC-03:00",
+            "UTC-01:00",
+            "UTC",
+            "UTC+01:00"
+        ],
+        "languages": [
+            "da"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "45"
+        ],
+        "numericCode": 208,
+        "abbrevation": {
+            "alpha3Code": "dnk",
+            "alpha2Code": "dk"
+        }
+    },
+    {
+        "capital": "Djibouti",
+        "name": "Djibouti",
+        "currencies": [
+            "DJF"
+        ],
+        "timezones": [
+            "UTC+03:00"
+        ],
+        "languages": [
+            "fr",
+            "ar"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "253"
+        ],
+        "numericCode": 262,
+        "abbrevation": {
+            "alpha3Code": "dji",
+            "alpha2Code": "dj"
+        }
+    },
+    {
+        "capital": "Roseau",
+        "name": "Dominica",
+        "currencies": [
+            "XCD"
+        ],
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "languages": [
+            "en"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "1767"
+        ],
+        "numericCode": 212,
+        "abbrevation": {
+            "alpha3Code": "dma",
+            "alpha2Code": "dm"
+        }
+    },
+    {
+        "capital": "Santo Domingo",
+        "name": "Dominican Republic",
+        "currencies": [
+            "DOP"
+        ],
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "languages": [
+            "es"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "1809",
+            "1829",
+            "1849"
+        ],
+        "numericCode": 214,
+        "abbrevation": {
+            "alpha3Code": "dom",
+            "alpha2Code": "do"
+        }
+    },
+    {
+        "capital": "Dili",
+        "name": "East Timor",
+        "currencies": [
+            "USD"
+        ],
+        "timezones": [
+            "UTC+09:00"
+        ],
+        "languages": [
+            "pt"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "670"
+        ],
+        "numericCode": 626,
+        "abbrevation": {
+            "alpha3Code": "tls",
+            "alpha2Code": "tl"
+        }
+    },
+    {
+        "capital": "Quito",
+        "name": "Ecuador",
+        "currencies": [
+            "USD"
+        ],
+        "timezones": [
+            "UTC-06:00",
+            "UTC-05:00"
+        ],
+        "languages": [
+            "es"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "593"
+        ],
+        "numericCode": 218,
+        "abbrevation": {
+            "alpha3Code": "ecu",
+            "alpha2Code": "ec"
+        }
+    },
+    {
+        "capital": "Cairo",
+        "name": "Egypt",
+        "currencies": [
+            "EGP"
+        ],
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "languages": [
+            "ar"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "20"
+        ],
+        "numericCode": 818,
+        "abbrevation": {
+            "alpha3Code": "egy",
+            "alpha2Code": "eg"
+        }
+    },
+    {
+        "capital": "San Salvador",
+        "name": "El Salvador",
+        "currencies": [
+            "SVC",
+            "USD"
+        ],
+        "timezones": [
+            "UTC-06:00"
+        ],
+        "languages": [
+            "es"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "503"
+        ],
+        "numericCode": 222,
+        "abbrevation": {
+            "alpha3Code": "slv",
+            "alpha2Code": "sv"
+        }
+    },
+    {
+        "capital": "Malabo",
+        "name": "Equatorial Guinea",
+        "currencies": [
+            "XAF"
+        ],
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "languages": [
+            "es",
+            "fr"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "240"
+        ],
+        "numericCode": 226,
+        "abbrevation": {
+            "alpha3Code": "gnq",
+            "alpha2Code": "gq"
+        }
+    },
+    {
+        "capital": "Asmara",
+        "name": "Eritrea",
+        "currencies": [
+            "ERN"
+        ],
+        "timezones": [
+            "UTC+03:00"
+        ],
+        "languages": [
+            "ti",
+            "ar",
+            "en"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "291"
+        ],
+        "numericCode": 232,
+        "abbrevation": {
+            "alpha3Code": "eri",
+            "alpha2Code": "er"
+        }
+    },
+    {
+        "capital": "Tallinn",
+        "name": "Estonia",
+        "currencies": [
+            "EUR"
+        ],
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "languages": [
+            "et"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "372"
+        ],
+        "numericCode": 233,
+        "abbrevation": {
+            "alpha3Code": "est",
+            "alpha2Code": "ee"
+        }
+    },
+    {
+        "capital": "Addis Ababa",
+        "name": "Ethiopia",
+        "currencies": [
+            "ETB"
+        ],
+        "timezones": [
+            "UTC+03:00"
+        ],
+        "languages": [
+            "am"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "251"
+        ],
+        "numericCode": 231,
+        "abbrevation": {
+            "alpha3Code": "eth",
+            "alpha2Code": "et"
+        }
+    },
+    {
+        "capital": "Stanley",
+        "name": "Falkland Islands",
+        "currencies": [
+            "FKP"
+        ],
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "languages": [
+            "en"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "500"
+        ],
+        "numericCode": 238,
+        "abbrevation": {
+            "alpha3Code": "flk",
+            "alpha2Code": "fk"
+        }
+    },
+    {
+        "capital": "Tórshavn",
+        "name": "Faroe Islands",
+        "currencies": [
+            "DKK"
+        ],
+        "timezones": [
+            "UTC+00:00"
+        ],
+        "languages": [
+            "fo"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "298"
+        ],
+        "numericCode": 234,
+        "abbrevation": {
+            "alpha3Code": "fro",
+            "alpha2Code": "fo"
+        }
+    },
+    {
+        "capital": "Palikir",
+        "name": "Federated States of Micronesia",
+        "currencies": [
+            "USD"
+        ],
+        "timezones": [
+            "UTC+10:00",
+            "UTC+11"
+        ],
+        "languages": [
+            "en"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "691"
+        ],
+        "numericCode": 583,
+        "abbrevation": {
+            "alpha3Code": "fsm",
+            "alpha2Code": "fm"
+        }
+    },
+    {
+        "capital": "Suva",
+        "name": "Fiji",
+        "currencies": [
+            "FJD"
+        ],
+        "timezones": [
+            "UTC+12:00"
+        ],
+        "languages": [
+            "en",
+            "fj",
+            "hi",
+            "ur"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "679"
+        ],
+        "numericCode": 242,
+        "abbrevation": {
+            "alpha3Code": "fji",
+            "alpha2Code": "fj"
+        }
+    },
+    {
+        "capital": "Helsinki",
+        "name": "Finland",
+        "currencies": [
+            "EUR"
+        ],
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "languages": [
+            "fi",
+            "sv"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "358"
+        ],
+        "numericCode": 246,
+        "abbrevation": {
+            "alpha3Code": "fin",
+            "alpha2Code": "fi"
+        }
+    },
+    {
+        "capital": "Paris",
+        "name": "France",
+        "currencies": [
+            "EUR"
+        ],
+        "timezones": [
+            "UTC-10:00",
+            "UTC-09:30",
+            "UTC-09:00",
+            "UTC-08:00",
+            "UTC-04:00",
+            "UTC-03:00",
+            "UTC+01:00",
+            "UTC+03:00",
+            "UTC+04:00",
+            "UTC+05:00",
+            "UTC+11:00",
+            "UTC+12:00"
+        ],
+        "languages": [
+            "fr"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "33"
+        ],
+        "numericCode": 250,
+        "abbrevation": {
+            "alpha3Code": "fra",
+            "alpha2Code": "fr"
+        }
+    },
+    {
+        "capital": "Cayenne",
+        "name": "French Guiana",
+        "currencies": [
+            "EUR"
+        ],
+        "timezones": [
+            "UTC-03:00"
+        ],
+        "languages": [
+            "fr"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "594"
+        ],
+        "numericCode": 254,
+        "abbrevation": {
+            "alpha3Code": "guf",
+            "alpha2Code": "gf"
+        }
+    },
+    {
+        "capital": "Papeetē",
+        "name": "French Polynesia",
+        "currencies": [
+            "XPF"
+        ],
+        "timezones": [
+            "UTC-10:00",
+            "UTC-09:30",
+            "UTC-09:00"
+        ],
+        "languages": [
+            "fr"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "689"
+        ],
+        "numericCode": 258,
+        "abbrevation": {
+            "alpha3Code": "pyf",
+            "alpha2Code": "pf"
+        }
+    },
+    {
+        "capital": "Port-aux-Français",
+        "name": "French Southern and Antarctic Lands",
+        "currencies": [
+            "EUR"
+        ],
+        "timezones": [
+            "UTC+05:00"
+        ],
+        "languages": [
+            "fr"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            ""
+        ],
+        "numericCode": 260,
+        "abbrevation": {
+            "alpha3Code": "atf",
+            "alpha2Code": "tf"
+        }
+    },
+    {
+        "capital": "Libreville",
+        "name": "Gabon",
+        "currencies": [
+            "XAF"
+        ],
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "languages": [
+            "fr"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "241"
+        ],
+        "numericCode": 266,
+        "abbrevation": {
+            "alpha3Code": "gab",
+            "alpha2Code": "ga"
+        }
+    },
+    {
+        "capital": "Tbilisi",
+        "name": "Georgia",
+        "currencies": [
+            "GEL"
+        ],
+        "timezones": [
+            "UTC-05:00"
+        ],
+        "languages": [
+            "ka"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "995"
+        ],
+        "numericCode": 268,
+        "abbrevation": {
+            "alpha3Code": "geo",
+            "alpha2Code": "ge"
+        }
+    },
+    {
+        "capital": "Berlin",
+        "name": "Germany",
+        "currencies": [
+            "EUR"
+        ],
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "languages": [
+            "de"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "49"
+        ],
+        "numericCode": 276,
+        "abbrevation": {
+            "alpha3Code": "deu",
+            "alpha2Code": "de"
+        }
+    },
+    {
+        "capital": "Accra",
+        "name": "Ghana",
+        "currencies": [
+            "GHS"
+        ],
+        "timezones": [
+            "UTC"
+        ],
+        "languages": [
+            "en"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "233"
+        ],
+        "numericCode": 288,
+        "abbrevation": {
+            "alpha3Code": "gha",
+            "alpha2Code": "gh"
+        }
+    },
+    {
+        "capital": "Gibraltar",
+        "name": "Gibraltar",
+        "currencies": [
+            "GIP"
+        ],
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "languages": [
+            "en"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "350"
+        ],
+        "numericCode": 292,
+        "abbrevation": {
+            "alpha3Code": "gib",
+            "alpha2Code": "gi"
+        }
+    },
+    {
+        "capital": "Athens",
+        "name": "Greece",
+        "currencies": [
+            "EUR"
+        ],
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "languages": [
+            "el"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "30"
+        ],
+        "numericCode": 300,
+        "abbrevation": {
+            "alpha3Code": "grc",
+            "alpha2Code": "gr"
+        }
+    },
+    {
+        "capital": "Nuuk",
+        "name": "Greenland",
+        "currencies": [
+            "DKK"
+        ],
+        "timezones": [
+            "UTC-04:00",
+            "UTC-03:00",
+            "UTC-01:00",
+            "UTC+00:00"
+        ],
+        "languages": [
+            "kl"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "299"
+        ],
+        "numericCode": 304,
+        "abbrevation": {
+            "alpha3Code": "grl",
+            "alpha2Code": "gl"
+        }
+    },
+    {
+        "capital": "St. George's",
+        "name": "Grenada",
+        "currencies": [
+            "XCD"
+        ],
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "languages": [
+            "en"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "1473"
+        ],
+        "numericCode": 308,
+        "abbrevation": {
+            "alpha3Code": "grd",
+            "alpha2Code": "gd"
+        }
+    },
+    {
+        "capital": "Basse-Terre",
+        "name": "Guadeloupe",
+        "currencies": [
+            "EUR"
+        ],
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "languages": [
+            "fr"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "590"
+        ],
+        "numericCode": 312,
+        "abbrevation": {
+            "alpha3Code": "glp",
+            "alpha2Code": "gp"
+        }
+    },
+    {
+        "capital": "Hagåtña",
+        "name": "Guam",
+        "currencies": [
+            "USD"
+        ],
+        "timezones": [
+            "UTC+10:00"
+        ],
+        "languages": [
+            "en",
+            "ch",
+            "es"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "1671"
+        ],
+        "numericCode": 316,
+        "abbrevation": {
+            "alpha3Code": "gum",
+            "alpha2Code": "gu"
+        }
+    },
+    {
+        "capital": "Guatemala City",
+        "name": "Guatemala",
+        "currencies": [
+            "GTQ"
+        ],
+        "timezones": [
+            "UTC-06:00"
+        ],
+        "languages": [
+            "es"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "502"
+        ],
+        "numericCode": 320,
+        "abbrevation": {
+            "alpha3Code": "gtm",
+            "alpha2Code": "gt"
+        }
+    },
+    {
+        "capital": "St. Peter Port",
+        "name": "Guernsey",
+        "currencies": [
+            "GBP"
+        ],
+        "timezones": [
+            "UTC+00:00"
+        ],
+        "languages": [
+            "en",
+            "fr"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "44"
+        ],
+        "numericCode": 831,
+        "abbrevation": {
+            "alpha3Code": "ggy",
+            "alpha2Code": "gg"
+        }
+    },
+    {
+        "capital": "Conakry",
+        "name": "Guinea",
+        "currencies": [
+            "GNF"
+        ],
+        "timezones": [
+            "UTC"
+        ],
+        "languages": [
+            "fr",
+            "ff"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "224"
+        ],
+        "numericCode": 324,
+        "abbrevation": {
+            "alpha3Code": "gin",
+            "alpha2Code": "gn"
+        }
+    },
+    {
+        "capital": "Bissau",
+        "name": "Guinea-Bissau",
+        "currencies": [
+            "XOF"
+        ],
+        "timezones": [
+            "UTC"
+        ],
+        "languages": [
+            "pt"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "245"
+        ],
+        "numericCode": 624,
+        "abbrevation": {
+            "alpha3Code": "gnb",
+            "alpha2Code": "gw"
+        }
+    },
+    {
+        "capital": "Georgetown",
+        "name": "Guyana",
+        "currencies": [
+            "GYD"
+        ],
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "languages": [
+            "en"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "592"
+        ],
+        "numericCode": 328,
+        "abbrevation": {
+            "alpha3Code": "guy",
+            "alpha2Code": "gy"
+        }
+    },
+    {
+        "capital": "Port-au-Prince",
+        "name": "Haiti",
+        "currencies": [
+            "HTG",
+            "USD"
+        ],
+        "timezones": [
+            "UTC-05:00"
+        ],
+        "languages": [
+            "fr",
+            "ht"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "509"
+        ],
+        "numericCode": 332,
+        "abbrevation": {
+            "alpha3Code": "hti",
+            "alpha2Code": "ht"
+        }
+    },
+    {
+        "capital": "Rome",
+        "name": "Holy See",
+        "currencies": [
+            "EUR"
+        ],
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "languages": [
+            "la",
+            "it",
+            "fr",
+            "de"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "379"
+        ],
+        "numericCode": null,
+        "abbrevation": {
+            "alpha3Code": "vat",
+            "alpha2Code": "va"
+        }
+    },
+    {
+        "capital": "Tegucigalpa",
+        "name": "Honduras",
+        "currencies": [
+            "HNL"
+        ],
+        "timezones": [
+            "UTC-06:00"
+        ],
+        "languages": [
+            "es"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "504"
+        ],
+        "numericCode": 340,
+        "abbrevation": {
+            "alpha3Code": "hnd",
+            "alpha2Code": "hn"
+        }
+    },
+    {
+        "capital": "City of Victoria",
+        "name": "Hong Kong",
+        "currencies": [
+            "HKD"
+        ],
+        "timezones": [
+            "UTC+08:00"
+        ],
+        "languages": [
+            "en",
+            "zh"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "852"
+        ],
+        "numericCode": 344,
+        "abbrevation": {
+            "alpha3Code": "hkg",
+            "alpha2Code": "hk"
+        }
+    },
+    {
+        "capital": "Budapest",
+        "name": "Hungary",
+        "currencies": [
+            "HUF"
+        ],
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "languages": [
+            "hu"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "36"
+        ],
+        "numericCode": 348,
+        "abbrevation": {
+            "alpha3Code": "hun",
+            "alpha2Code": "hu"
+        }
+    },
+    {
+        "capital": "Reykjavík",
+        "name": "Iceland",
+        "currencies": [
+            "ISK"
+        ],
+        "timezones": [
+            "UTC"
+        ],
+        "languages": [
+            "is"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "354"
+        ],
+        "numericCode": 352,
+        "abbrevation": {
+            "alpha3Code": "isl",
+            "alpha2Code": "is"
+        }
+    },
+    {
+        "capital": "New Delhi",
+        "name": "India",
+        "currencies": [
+            "INR"
+        ],
+        "timezones": [
+            "UTC+05:30"
+        ],
+        "languages": [
+            "hi",
+            "en"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "91"
+        ],
+        "numericCode": 356,
+        "abbrevation": {
+            "alpha3Code": "ind",
+            "alpha2Code": "in"
+        }
+    },
+    {
+        "capital": "Jakarta",
+        "name": "Indonesia",
+        "currencies": [
+            "IDR"
+        ],
+        "timezones": [
+            "UTC+07:00",
+            "UTC+08:00",
+            "UTC+09:00"
+        ],
+        "languages": [
+            "id"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "62"
+        ],
+        "numericCode": 360,
+        "abbrevation": {
+            "alpha3Code": "idn",
+            "alpha2Code": "id"
+        }
+    },
+    {
+        "capital": "Tehran",
+        "name": "Iran",
+        "currencies": [
+            "IRR"
+        ],
+        "timezones": [
+            "UTC+03:30"
+        ],
+        "languages": [
+            "fa"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "98"
+        ],
+        "numericCode": 364,
+        "abbrevation": {
+            "alpha3Code": "irn",
+            "alpha2Code": "ir"
+        }
+    },
+    {
+        "capital": "Baghdad",
+        "name": "Iraq",
+        "currencies": [
+            "IQD"
+        ],
+        "timezones": [
+            "UTC+03:00"
+        ],
+        "languages": [
+            "ar",
+            "ku"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "964"
+        ],
+        "numericCode": 368,
+        "abbrevation": {
+            "alpha3Code": "irq",
+            "alpha2Code": "iq"
+        }
+    },
+    {
+        "capital": "Douglas",
+        "name": "Isle of Man",
+        "currencies": [
+            "GBP"
+        ],
+        "timezones": [
+            "UTC+00:00"
+        ],
+        "languages": [
+            "en",
+            "gv"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "44"
+        ],
+        "numericCode": 833,
+        "abbrevation": {
+            "alpha3Code": "imn",
+            "alpha2Code": "im"
+        }
+    },
+    {
+        "capital": "Jerusalem",
+        "name": "Israel",
+        "currencies": [
+            "ILS"
+        ],
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "languages": [
+            "he",
+            "ar"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "972"
+        ],
+        "numericCode": 376,
+        "abbrevation": {
+            "alpha3Code": "isr",
+            "alpha2Code": "il"
+        }
+    },
+    {
+        "capital": "Yamoussoukro",
+        "name": "Ivory Coast",
+        "currencies": [
+            "XOF"
+        ],
+        "timezones": [
+            "UTC"
+        ],
+        "languages": [
+            "fr"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "225"
+        ],
+        "numericCode": 384,
+        "abbrevation": {
+            "alpha3Code": "civ",
+            "alpha2Code": "ci"
+        }
+    },
+    {
+        "capital": "Kingston",
+        "name": "Jamaica",
+        "currencies": [
+            "JMD"
+        ],
+        "timezones": [
+            "UTC-05:00"
+        ],
+        "languages": [
+            "en"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "1876"
+        ],
+        "numericCode": 388,
+        "abbrevation": {
+            "alpha3Code": "jam",
+            "alpha2Code": "jm"
+        }
+    },
+    {
+        "capital": "Tokyo",
+        "name": "Japan",
+        "currencies": [
+            "JPY"
+        ],
+        "timezones": [
+            "UTC+09:00"
+        ],
+        "languages": [
+            "ja"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "81"
+        ],
+        "numericCode": 392,
+        "abbrevation": {
+            "alpha3Code": "jpn",
+            "alpha2Code": "jp"
+        }
+    },
+    {
+        "capital": "Saint Helier",
+        "name": "Jersey",
+        "currencies": [
+            "GBP"
+        ],
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "languages": [
+            "en",
+            "fr"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "44"
+        ],
+        "numericCode": 832,
+        "abbrevation": {
+            "alpha3Code": "jey",
+            "alpha2Code": "je"
+        }
+    },
+    {
+        "capital": "Amman",
+        "name": "Jordan",
+        "currencies": [
+            "JOD"
+        ],
+        "timezones": [
+            "UTC+03:00"
+        ],
+        "languages": [
+            "ar"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "962"
+        ],
+        "numericCode": 400,
+        "abbrevation": {
+            "alpha3Code": "jor",
+            "alpha2Code": "jo"
+        }
+    },
+    {
+        "capital": "Astana",
+        "name": "Kazakhstan",
+        "currencies": [
+            "KZT"
+        ],
+        "timezones": [
+            "UTC+05:00",
+            "UTC+06:00"
+        ],
+        "languages": [
+            "kk",
+            "ru"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "76",
+            "77"
+        ],
+        "numericCode": 398,
+        "abbrevation": {
+            "alpha3Code": "kaz",
+            "alpha2Code": "kz"
+        }
+    },
+    {
+        "capital": "Nairobi",
+        "name": "Kenya",
+        "currencies": [
+            "KES"
+        ],
+        "timezones": [
+            "UTC+03:00"
+        ],
+        "languages": [
+            "en",
+            "sw"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "254"
+        ],
+        "numericCode": 404,
+        "abbrevation": {
+            "alpha3Code": "ken",
+            "alpha2Code": "ke"
+        }
+    },
+    {
+        "capital": "South Tarawa",
+        "name": "Kiribati",
+        "currencies": [
+            "AUD"
+        ],
+        "timezones": [
+            "UTC+12:00",
+            "UTC+13:00",
+            "UTC+14:00"
+        ],
+        "languages": [
+            "en"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "686"
+        ],
+        "numericCode": 296,
+        "abbrevation": {
+            "alpha3Code": "kir",
+            "alpha2Code": "ki"
+        }
+    },
+    {
+        "capital": "Kuwait City",
+        "name": "Kuwait",
+        "currencies": [
+            "KWD"
+        ],
+        "timezones": [
+            "UTC+03:00"
+        ],
+        "languages": [
+            "ar"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "965"
+        ],
+        "numericCode": 414,
+        "abbrevation": {
+            "alpha3Code": "kwt",
+            "alpha2Code": "kw"
+        }
+    },
+    {
+        "capital": "Bishkek",
+        "name": "Kyrgyzstan",
+        "currencies": [
+            "KGS"
+        ],
+        "timezones": [
+            "UTC+06:00"
+        ],
+        "languages": [
+            "ky",
+            "ru"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "996"
+        ],
+        "numericCode": 417,
+        "abbrevation": {
+            "alpha3Code": "kgz",
+            "alpha2Code": "kg"
+        }
+    },
+    {
+        "capital": "Vientiane",
+        "name": "Laos",
+        "currencies": [
+            "LAK"
+        ],
+        "timezones": [
+            "UTC+07:00"
+        ],
+        "languages": [
+            "lo"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "856"
+        ],
+        "numericCode": 418,
+        "abbrevation": {
+            "alpha3Code": "lao",
+            "alpha2Code": "la"
+        }
+    },
+    {
+        "capital": "Riga",
+        "name": "Latvia",
+        "currencies": [
+            "EUR"
+        ],
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "languages": [
+            "lv"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "371"
+        ],
+        "numericCode": 428,
+        "abbrevation": {
+            "alpha3Code": "lva",
+            "alpha2Code": "lv"
+        }
+    },
+    {
+        "capital": "Beirut",
+        "name": "Lebanon",
+        "currencies": [
+            "LBP"
+        ],
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "languages": [
+            "ar",
+            "fr"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "961"
+        ],
+        "numericCode": 422,
+        "abbrevation": {
+            "alpha3Code": "lbn",
+            "alpha2Code": "lb"
+        }
+    },
+    {
+        "capital": "Maseru",
+        "name": "Lesotho",
+        "currencies": [
+            "LSL",
+            "ZAR"
+        ],
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "languages": [
+            "en",
+            "st"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "266"
+        ],
+        "numericCode": 426,
+        "abbrevation": {
+            "alpha3Code": "lso",
+            "alpha2Code": "ls"
+        }
+    },
+    {
+        "capital": "Monrovia",
+        "name": "Liberia",
+        "currencies": [
+            "LRD"
+        ],
+        "timezones": [
+            "UTC"
+        ],
+        "languages": [
+            "en"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "231"
+        ],
+        "numericCode": 430,
+        "abbrevation": {
+            "alpha3Code": "lbr",
+            "alpha2Code": "lr"
+        }
+    },
+    {
+        "capital": "Tripoli",
+        "name": "Libya",
+        "currencies": [
+            "LYD"
+        ],
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "languages": [
+            "ar"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "218"
+        ],
+        "numericCode": 434,
+        "abbrevation": {
+            "alpha3Code": "lby",
+            "alpha2Code": "ly"
+        }
+    },
+    {
+        "capital": "Vaduz",
+        "name": "Liechtenstein",
+        "currencies": [
+            "CHF"
+        ],
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "languages": [
+            "de"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "423"
+        ],
+        "numericCode": 438,
+        "abbrevation": {
+            "alpha3Code": "lie",
+            "alpha2Code": "li"
+        }
+    },
+    {
+        "capital": "Vilnius",
+        "name": "Lithuania",
+        "currencies": [
+            "EUR"
+        ],
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "languages": [
+            "lt"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "370"
+        ],
+        "numericCode": 440,
+        "abbrevation": {
+            "alpha3Code": "ltu",
+            "alpha2Code": "lt"
+        }
+    },
+    {
+        "capital": "Luxembourg",
+        "name": "Luxembourg",
+        "currencies": [
+            "EUR"
+        ],
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "languages": [
+            "fr",
+            "de",
+            "lb"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "352"
+        ],
+        "numericCode": 442,
+        "abbrevation": {
+            "alpha3Code": "lux",
+            "alpha2Code": "lu"
+        }
+    },
+    {
+        "capital": "Antananarivo",
+        "name": "Madagascar",
+        "currencies": [
+            "MGA"
+        ],
+        "timezones": [
+            "UTC+03:00"
+        ],
+        "languages": [
+            "fr",
+            "mg"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "261"
+        ],
+        "numericCode": 450,
+        "abbrevation": {
+            "alpha3Code": "mdg",
+            "alpha2Code": "mg"
+        }
+    },
+    {
+        "capital": "Lilongwe",
+        "name": "Malawi",
+        "currencies": [
+            "MWK"
+        ],
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "languages": [
+            "en",
+            "ny"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "265"
+        ],
+        "numericCode": 454,
+        "abbrevation": {
+            "alpha3Code": "mwi",
+            "alpha2Code": "mw"
+        }
+    },
+    {
+        "capital": "Kuala Lumpur",
+        "name": "Malaysia",
+        "currencies": [
+            "MYR"
+        ],
+        "timezones": [
+            "UTC+08:00"
+        ],
+        "languages": [],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "60"
+        ],
+        "numericCode": 458,
+        "abbrevation": {
+            "alpha3Code": "mys",
+            "alpha2Code": "my"
+        }
+    },
+    {
+        "capital": "Malé",
+        "name": "Maldives",
+        "currencies": [
+            "MVR"
+        ],
+        "timezones": [
+            "UTC+05:00"
+        ],
+        "languages": [
+            "dv"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "960"
+        ],
+        "numericCode": 462,
+        "abbrevation": {
+            "alpha3Code": "mdv",
+            "alpha2Code": "mv"
+        }
+    },
+    {
+        "capital": "Bamako",
+        "name": "Mali",
+        "currencies": [
+            "XOF"
+        ],
+        "timezones": [
+            "UTC"
+        ],
+        "languages": [
+            "fr"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "223"
+        ],
+        "numericCode": 466,
+        "abbrevation": {
+            "alpha3Code": "mli",
+            "alpha2Code": "ml"
+        }
+    },
+    {
+        "capital": "Valletta",
+        "name": "Malta",
+        "currencies": [
+            "EUR"
+        ],
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "languages": [
+            "mt",
+            "en"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "356"
+        ],
+        "numericCode": 470,
+        "abbrevation": {
+            "alpha3Code": "mlt",
+            "alpha2Code": "mt"
+        }
+    },
+    {
+        "capital": "Majuro",
+        "name": "Marshall Islands",
+        "currencies": [
+            "USD"
+        ],
+        "timezones": [
+            "UTC+12:00"
+        ],
+        "languages": [
+            "en",
+            "mh"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "692"
+        ],
+        "numericCode": 584,
+        "abbrevation": {
+            "alpha3Code": "mhl",
+            "alpha2Code": "mh"
+        }
+    },
+    {
+        "capital": "Fort-de-France",
+        "name": "Martinique",
+        "currencies": [
+            "EUR"
+        ],
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "languages": [
+            "fr"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "596"
+        ],
+        "numericCode": 474,
+        "abbrevation": {
+            "alpha3Code": "mtq",
+            "alpha2Code": "mq"
+        }
+    },
+    {
+        "capital": "Nouakchott",
+        "name": "Mauritania",
+        "currencies": [
+            "MRO"
+        ],
+        "timezones": [
+            "UTC"
+        ],
+        "languages": [
+            "ar"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "222"
+        ],
+        "numericCode": 478,
+        "abbrevation": {
+            "alpha3Code": "mrt",
+            "alpha2Code": "mr"
+        }
+    },
+    {
+        "capital": "Port Louis",
+        "name": "Mauritius",
+        "currencies": [
+            "MUR"
+        ],
+        "timezones": [
+            "UTC+04:00"
+        ],
+        "languages": [
+            "en"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "230"
+        ],
+        "numericCode": 480,
+        "abbrevation": {
+            "alpha3Code": "mus",
+            "alpha2Code": "mu"
+        }
+    },
+    {
+        "capital": "Mamoudzou",
+        "name": "Mayotte",
+        "currencies": [
+            "EUR"
+        ],
+        "timezones": [
+            "UTC+03:00"
+        ],
+        "languages": [
+            "fr"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "262"
+        ],
+        "numericCode": 175,
+        "abbrevation": {
+            "alpha3Code": "myt",
+            "alpha2Code": "yt"
+        }
+    },
+    {
+        "capital": "Mexico City",
+        "name": "Mexico",
+        "currencies": [
+            "MXN"
+        ],
+        "timezones": [
+            "UTC-08:00",
+            "UTC-07:00",
+            "UTC-06:00"
+        ],
+        "languages": [
+            "es"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "52"
+        ],
+        "numericCode": 484,
+        "abbrevation": {
+            "alpha3Code": "mex",
+            "alpha2Code": "mx"
+        }
+    },
+    {
+        "capital": "Chișinău",
+        "name": "Moldova",
+        "currencies": [
+            "MDL"
+        ],
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "languages": [
+            "ro"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "373"
+        ],
+        "numericCode": 498,
+        "abbrevation": {
+            "alpha3Code": "mda",
+            "alpha2Code": "md"
+        }
+    },
+    {
+        "capital": "Monaco",
+        "name": "Monaco",
+        "currencies": [
+            "EUR"
+        ],
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "languages": [
+            "fr"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "377"
+        ],
+        "numericCode": 492,
+        "abbrevation": {
+            "alpha3Code": "mco",
+            "alpha2Code": "mc"
+        }
+    },
+    {
+        "capital": "Ulan Bator",
+        "name": "Mongolia",
+        "currencies": [
+            "MNT"
+        ],
+        "timezones": [
+            "UTC+07:00",
+            "UTC+08:00"
+        ],
+        "languages": [
+            "mn"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "976"
+        ],
+        "numericCode": 496,
+        "abbrevation": {
+            "alpha3Code": "mng",
+            "alpha2Code": "mn"
+        }
+    },
+    {
+        "capital": "Podgorica",
+        "name": "Montenegro",
+        "currencies": [
+            "EUR"
+        ],
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "languages": [
+            "sr",
+            "bs",
+            "sq",
+            "hr"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "382"
+        ],
+        "numericCode": 499,
+        "abbrevation": {
+            "alpha3Code": "mne",
+            "alpha2Code": "me"
+        }
+    },
+    {
+        "capital": "Plymouth",
+        "name": "Montserrat",
+        "currencies": [
+            "XCD"
+        ],
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "languages": [
+            "en"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "1664"
+        ],
+        "numericCode": 500,
+        "abbrevation": {
+            "alpha3Code": "msr",
+            "alpha2Code": "ms"
+        }
+    },
+    {
+        "capital": "Rabat",
+        "name": "Morocco",
+        "currencies": [
+            "MAD"
+        ],
+        "timezones": [
+            "UTC"
+        ],
+        "languages": [
+            "ar"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "212"
+        ],
+        "numericCode": 504,
+        "abbrevation": {
+            "alpha3Code": "mar",
+            "alpha2Code": "ma"
+        }
+    },
+    {
+        "capital": "Maputo",
+        "name": "Mozambique",
+        "currencies": [
+            "MZN"
+        ],
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "languages": [
+            "pt"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "258"
+        ],
+        "numericCode": 508,
+        "abbrevation": {
+            "alpha3Code": "moz",
+            "alpha2Code": "mz"
+        }
+    },
+    {
+        "capital": "Naypyidaw",
+        "name": "Myanmar",
+        "currencies": [
+            "MMK"
+        ],
+        "timezones": [
+            "UTC+06:30"
+        ],
+        "languages": [
+            "my"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "95"
+        ],
+        "numericCode": 104,
+        "abbrevation": {
+            "alpha3Code": "mmr",
+            "alpha2Code": "mm"
+        }
+    },
+    {
+        "capital": "Windhoek",
+        "name": "Namibia",
+        "currencies": [
+            "NAD",
+            "ZAR"
+        ],
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "languages": [
+            "en",
+            "af"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "264"
+        ],
+        "numericCode": 516,
+        "abbrevation": {
+            "alpha3Code": "nam",
+            "alpha2Code": "na"
+        }
+    },
+    {
+        "capital": "Yaren",
+        "name": "Nauru",
+        "currencies": [
+            "AUD"
+        ],
+        "timezones": [
+            "UTC+12:00"
+        ],
+        "languages": [
+            "en",
+            "na"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "674"
+        ],
+        "numericCode": 520,
+        "abbrevation": {
+            "alpha3Code": "nru",
+            "alpha2Code": "nr"
+        }
+    },
+    {
+        "capital": "Kathmandu",
+        "name": "Nepal",
+        "currencies": [
+            "NPR"
+        ],
+        "timezones": [
+            "UTC+05:45"
+        ],
+        "languages": [
+            "ne"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "977"
+        ],
+        "numericCode": 524,
+        "abbrevation": {
+            "alpha3Code": "npl",
+            "alpha2Code": "np"
+        }
+    },
+    {
+        "capital": "Amsterdam",
+        "name": "Netherlands",
+        "currencies": [
+            "EUR"
+        ],
+        "timezones": [
+            "UTC-04:00",
+            "UTC+01:00"
+        ],
+        "languages": [
+            "nl"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "31"
+        ],
+        "numericCode": 528,
+        "abbrevation": {
+            "alpha3Code": "nld",
+            "alpha2Code": "nl"
+        }
+    },
+    {
+        "capital": "Nouméa",
+        "name": "New Caledonia",
+        "currencies": [
+            "XPF"
+        ],
+        "timezones": [
+            "UTC+11:00"
+        ],
+        "languages": [
+            "fr"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "687"
+        ],
+        "numericCode": 540,
+        "abbrevation": {
+            "alpha3Code": "ncl",
+            "alpha2Code": "nc"
+        }
+    },
+    {
+        "capital": "Wellington",
+        "name": "New Zealand",
+        "currencies": [
+            "NZD"
+        ],
+        "timezones": [
+            "UTC-11:00",
+            "UTC-10:00",
+            "UTC+12:00",
+            "UTC+12:45",
+            "UTC+13:00"
+        ],
+        "languages": [
+            "en",
+            "mi"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "64"
+        ],
+        "numericCode": 554,
+        "abbrevation": {
+            "alpha3Code": "nzl",
+            "alpha2Code": "nz"
+        }
+    },
+    {
+        "capital": "Managua",
+        "name": "Nicaragua",
+        "currencies": [
+            "NIO"
+        ],
+        "timezones": [
+            "UTC-06:00"
+        ],
+        "languages": [
+            "es"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "505"
+        ],
+        "numericCode": 558,
+        "abbrevation": {
+            "alpha3Code": "nic",
+            "alpha2Code": "ni"
+        }
+    },
+    {
+        "capital": "Niamey",
+        "name": "Niger",
+        "currencies": [
+            "XOF"
+        ],
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "languages": [
+            "fr"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "227"
+        ],
+        "numericCode": 562,
+        "abbrevation": {
+            "alpha3Code": "ner",
+            "alpha2Code": "ne"
+        }
+    },
+    {
+        "capital": "Abuja",
+        "name": "Nigeria",
+        "currencies": [
+            "NGN"
+        ],
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "languages": [
+            "en"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "234"
+        ],
+        "numericCode": 566,
+        "abbrevation": {
+            "alpha3Code": "nga",
+            "alpha2Code": "ng"
+        }
+    },
+    {
+        "capital": "Alofi",
+        "name": "Niue",
+        "currencies": [
+            "NZD"
+        ],
+        "timezones": [
+            "UTC-11:00"
+        ],
+        "languages": [
+            "en"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "683"
+        ],
+        "numericCode": 570,
+        "abbrevation": {
+            "alpha3Code": "niu",
+            "alpha2Code": "nu"
+        }
+    },
+    {
+        "capital": "Pyongyang",
+        "name": "North Korea",
+        "currencies": [
+            "KPW"
+        ],
+        "timezones": [
+            "UTC+09:00"
+        ],
+        "languages": [
+            "ko"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "850"
+        ],
+        "numericCode": 408,
+        "abbrevation": {
+            "alpha3Code": "prk",
+            "alpha2Code": "kp"
+        }
+    },
+    {
+        "capital": "Saipan",
+        "name": "Northern Mariana Islands",
+        "currencies": [
+            "USD"
+        ],
+        "timezones": [
+            "UTC+10:00"
+        ],
+        "languages": [
+            "en",
+            "ch"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "1670"
+        ],
+        "numericCode": 580,
+        "abbrevation": {
+            "alpha3Code": "mnp",
+            "alpha2Code": "mp"
+        }
+    },
+    {
+        "capital": "Oslo",
+        "name": "Norway",
+        "currencies": [
+            "NOK"
+        ],
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "languages": [
+            "no",
+            "nb",
+            "nn"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "47"
+        ],
+        "numericCode": 578,
+        "abbrevation": {
+            "alpha3Code": "nor",
+            "alpha2Code": "no"
+        }
+    },
+    {
+        "capital": "Muscat",
+        "name": "Oman",
+        "currencies": [
+            "OMR"
+        ],
+        "timezones": [
+            "UTC+04:00"
+        ],
+        "languages": [
+            "ar"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "968"
+        ],
+        "numericCode": 512,
+        "abbrevation": {
+            "alpha3Code": "omn",
+            "alpha2Code": "om"
+        }
+    },
+    {
+        "capital": "Islamabad",
+        "name": "Pakistan",
+        "currencies": [
+            "PKR"
+        ],
+        "timezones": [
+            "UTC+05:00"
+        ],
+        "languages": [
+            "en",
+            "ur"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "92"
+        ],
+        "numericCode": 586,
+        "abbrevation": {
+            "alpha3Code": "pak",
+            "alpha2Code": "pk"
+        }
+    },
+    {
+        "capital": "Ngerulmud",
+        "name": "Palau",
+        "currencies": [
+            "USD"
+        ],
+        "timezones": [
+            "UTC+09:00"
+        ],
+        "languages": [
+            "en"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "680"
+        ],
+        "numericCode": 585,
+        "abbrevation": {
+            "alpha3Code": "plw",
+            "alpha2Code": "pw"
+        }
+    },
+    {
+        "capital": "Ramallah",
+        "name": "Palestine",
+        "currencies": [
+            "ILS"
+        ],
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "languages": [
+            "ar"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "970"
+        ],
+        "numericCode": 275,
+        "abbrevation": {
+            "alpha3Code": "pse",
+            "alpha2Code": "ps"
+        }
+    },
+    {
+        "capital": "Panama City",
+        "name": "Panama",
+        "currencies": [
+            "PAB",
+            "USD"
+        ],
+        "timezones": [
+            "UTC-05:00"
+        ],
+        "languages": [
+            "es"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "507"
+        ],
+        "numericCode": 591,
+        "abbrevation": {
+            "alpha3Code": "pan",
+            "alpha2Code": "pa"
+        }
+    },
+    {
+        "capital": "Port Moresby",
+        "name": "Papua New Guinea",
+        "currencies": [
+            "PGK"
+        ],
+        "timezones": [
+            "UTC+10:00"
+        ],
+        "languages": [
+            "en"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "675"
+        ],
+        "numericCode": 598,
+        "abbrevation": {
+            "alpha3Code": "png",
+            "alpha2Code": "pg"
+        }
+    },
+    {
+        "capital": "Asunción",
+        "name": "Paraguay",
+        "currencies": [
+            "PYG"
+        ],
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "languages": [
+            "es",
+            "gn"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "595"
+        ],
+        "numericCode": 600,
+        "abbrevation": {
+            "alpha3Code": "pry",
+            "alpha2Code": "py"
+        }
+    },
+    {
+        "capital": "Lima",
+        "name": "Peru",
+        "currencies": [
+            "PEN"
+        ],
+        "timezones": [
+            "UTC-05:00"
+        ],
+        "languages": [
+            "es"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "51"
+        ],
+        "numericCode": 604,
+        "abbrevation": {
+            "alpha3Code": "per",
+            "alpha2Code": "pe"
+        }
+    },
+    {
+        "capital": "Manila",
+        "name": "Philippines",
+        "currencies": [
+            "PHP"
+        ],
+        "timezones": [
+            "UTC+08:00"
+        ],
+        "languages": [
+            "en"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "63"
+        ],
+        "numericCode": 608,
+        "abbrevation": {
+            "alpha3Code": "phl",
+            "alpha2Code": "ph"
+        }
+    },
+    {
+        "capital": "Adamstown",
+        "name": "Pitcairn Islands",
+        "currencies": [
+            "NZD"
+        ],
+        "timezones": [
+            "UTC-08:00"
+        ],
+        "languages": [
+            "en"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "64"
+        ],
+        "numericCode": 612,
+        "abbrevation": {
+            "alpha3Code": "pcn",
+            "alpha2Code": "pn"
+        }
+    },
+    {
+        "capital": "Warsaw",
+        "name": "Poland",
+        "currencies": [
+            "PLN"
+        ],
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "languages": [
+            "pl"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "48"
+        ],
+        "numericCode": 616,
+        "abbrevation": {
+            "alpha3Code": "pol",
+            "alpha2Code": "pl"
+        }
+    },
+    {
+        "capital": "Lisbon",
+        "name": "Portugal",
+        "currencies": [
+            "EUR"
+        ],
+        "timezones": [
+            "UTC-01:00",
+            "UTC"
+        ],
+        "languages": [
+            "pt"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "351"
+        ],
+        "numericCode": 620,
+        "abbrevation": {
+            "alpha3Code": "prt",
+            "alpha2Code": "pt"
+        }
+    },
+    {
+        "capital": "San Juan",
+        "name": "Puerto Rico",
+        "currencies": [
+            "USD"
+        ],
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "languages": [
+            "es",
+            "en"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "1787",
+            "1939"
+        ],
+        "numericCode": 630,
+        "abbrevation": {
+            "alpha3Code": "pri",
+            "alpha2Code": "pr"
+        }
+    },
+    {
+        "capital": "Doha",
+        "name": "Qatar",
+        "currencies": [
+            "QAR"
+        ],
+        "timezones": [
+            "UTC+03:00"
+        ],
+        "languages": [
+            "ar"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "974"
+        ],
+        "numericCode": 634,
+        "abbrevation": {
+            "alpha3Code": "qat",
+            "alpha2Code": "qa"
+        }
+    },
+    {
+        "capital": "Dublin",
+        "name": "Republic of Ireland",
+        "currencies": [
+            "EUR"
+        ],
+        "timezones": [
+            "UTC"
+        ],
+        "languages": [
+            "ga",
+            "en"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "353"
+        ],
+        "numericCode": 372,
+        "abbrevation": {
+            "alpha3Code": "irl",
+            "alpha2Code": "ie"
+        }
+    },
+    {
+        "capital": "Pristina",
+        "name": "Republic of Kosovo",
+        "currencies": [
+            "EUR"
+        ],
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "languages": [
+            "sq",
+            "sr"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "383"
+        ],
+        "numericCode": 780,
+        "abbrevation": {
+            "alpha3Code": "kos",
+            "alpha2Code": "xk"
+        }
+    },
+    {
+        "capital": "Skopje",
+        "name": "Republic of Macedonia",
+        "currencies": [
+            "MKD"
+        ],
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "languages": [
+            "mk"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "389"
+        ],
+        "numericCode": 807,
+        "abbrevation": {
+            "alpha3Code": "mkd",
+            "alpha2Code": "mk"
+        }
+    },
+    {
+        "capital": "Brazzaville",
+        "name": "Republic of the Congo",
+        "currencies": [
+            "XAF"
+        ],
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "languages": [
+            "fr",
+            "ln"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "242"
+        ],
+        "numericCode": 178,
+        "abbrevation": {
+            "alpha3Code": "cog",
+            "alpha2Code": "cg"
+        }
+    },
+    {
+        "capital": "Bucharest",
+        "name": "Romania",
+        "currencies": [
+            "RON"
+        ],
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "languages": [
+            "ro"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "40"
+        ],
+        "numericCode": 642,
+        "abbrevation": {
+            "alpha3Code": "rou",
+            "alpha2Code": "ro"
+        }
+    },
+    {
+        "capital": "Moscow",
+        "name": "Russia",
+        "currencies": [
+            "RUB"
+        ],
+        "timezones": [
+            "UTC+03:00",
+            "UTC+04:00",
+            "UTC+06:00",
+            "UTC+07:00",
+            "UTC+08:00",
+            "UTC+09:00",
+            "UTC+10:00",
+            "UTC+11:00",
+            "UTC+12:00"
+        ],
+        "languages": [
+            "ru"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "7"
+        ],
+        "numericCode": 643,
+        "abbrevation": {
+            "alpha3Code": "rus",
+            "alpha2Code": "ru"
+        }
+    },
+    {
+        "capital": "Kigali",
+        "name": "Rwanda",
+        "currencies": [
+            "RWF"
+        ],
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "languages": [
+            "rw",
+            "en",
+            "fr"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "250"
+        ],
+        "numericCode": 646,
+        "abbrevation": {
+            "alpha3Code": "rwa",
+            "alpha2Code": "rw"
+        }
+    },
+    {
+        "capital": "Saint-Denis",
+        "name": "Réunion",
+        "currencies": [
+            "EUR"
+        ],
+        "timezones": [
+            "UTC+04:00"
+        ],
+        "languages": [
+            "fr"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "262"
+        ],
+        "numericCode": 638,
+        "abbrevation": {
+            "alpha3Code": "reu",
+            "alpha2Code": "re"
+        }
+    },
+    {
+        "capital": "Gustavia",
+        "name": "Saint Barthélemy",
+        "currencies": [
+            "EUR"
+        ],
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "languages": [
+            "fr"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "590"
+        ],
+        "numericCode": 652,
+        "abbrevation": {
+            "alpha3Code": "blm",
+            "alpha2Code": "bl"
+        }
+    },
+    {
+        "capital": "Jamestown",
+        "name": "Saint Helena",
+        "currencies": [
+            "SHP"
+        ],
+        "timezones": [
+            "UTC+00:00"
+        ],
+        "languages": [
+            "en"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "290"
+        ],
+        "numericCode": 654,
+        "abbrevation": {
+            "alpha3Code": "shn",
+            "alpha2Code": "sh"
+        }
+    },
+    {
+        "capital": "Basseterre",
+        "name": "Saint Kitts and Nevis",
+        "currencies": [
+            "XCD"
+        ],
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "languages": [
+            "en"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "1869"
+        ],
+        "numericCode": 659,
+        "abbrevation": {
+            "alpha3Code": "kna",
+            "alpha2Code": "kn"
+        }
+    },
+    {
+        "capital": "Castries",
+        "name": "Saint Lucia",
+        "currencies": [
+            "XCD"
+        ],
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "languages": [
+            "en"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "1758"
+        ],
+        "numericCode": 662,
+        "abbrevation": {
+            "alpha3Code": "lca",
+            "alpha2Code": "lc"
+        }
+    },
+    {
+        "capital": "Marigot",
+        "name": "Saint Martin",
+        "currencies": [
+            "EUR"
+        ],
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "languages": [
+            "en",
+            "fr",
+            "nl"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "590"
+        ],
+        "numericCode": 663,
+        "abbrevation": {
+            "alpha3Code": "maf",
+            "alpha2Code": "mf"
+        }
+    },
+    {
+        "capital": "Saint-Pierre",
+        "name": "Saint Pierre and Miquelon",
+        "currencies": [
+            "EUR"
+        ],
+        "timezones": [
+            "UTC-03:00"
+        ],
+        "languages": [
+            "fr"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "508"
+        ],
+        "numericCode": 666,
+        "abbrevation": {
+            "alpha3Code": "spm",
+            "alpha2Code": "pm"
+        }
+    },
+    {
+        "capital": "Kingstown",
+        "name": "Saint Vincent and the Grenadines",
+        "currencies": [
+            "XCD"
+        ],
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "languages": [
+            "en"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "1784"
+        ],
+        "numericCode": 670,
+        "abbrevation": {
+            "alpha3Code": "vct",
+            "alpha2Code": "vc"
+        }
+    },
+    {
+        "capital": "Apia",
+        "name": "Samoa",
+        "currencies": [
+            "WST"
+        ],
+        "timezones": [
+            "UTC+13:00"
+        ],
+        "languages": [
+            "sm",
+            "en"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "685"
+        ],
+        "numericCode": 882,
+        "abbrevation": {
+            "alpha3Code": "wsm",
+            "alpha2Code": "ws"
+        }
+    },
+    {
+        "capital": "City of San Marino",
+        "name": "San Marino",
+        "currencies": [
+            "EUR"
+        ],
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "languages": [
+            "it"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "378"
+        ],
+        "numericCode": 674,
+        "abbrevation": {
+            "alpha3Code": "smr",
+            "alpha2Code": "sm"
+        }
+    },
+    {
+        "capital": "Riyadh",
+        "name": "Saudi Arabia",
+        "currencies": [
+            "SAR"
+        ],
+        "timezones": [
+            "UTC+03:00"
+        ],
+        "languages": [
+            "ar"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "966"
+        ],
+        "numericCode": 682,
+        "abbrevation": {
+            "alpha3Code": "sau",
+            "alpha2Code": "sa"
+        }
+    },
+    {
+        "capital": "Dakar",
+        "name": "Senegal",
+        "currencies": [
+            "XOF"
+        ],
+        "timezones": [
+            "UTC"
+        ],
+        "languages": [
+            "fr"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "221"
+        ],
+        "numericCode": 686,
+        "abbrevation": {
+            "alpha3Code": "sen",
+            "alpha2Code": "sn"
+        }
+    },
+    {
+        "capital": "Belgrade",
+        "name": "Serbia",
+        "currencies": [
+            "RSD"
+        ],
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "languages": [
+            "sr"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "381"
+        ],
+        "numericCode": 688,
+        "abbrevation": {
+            "alpha3Code": "srb",
+            "alpha2Code": "rs"
+        }
+    },
+    {
+        "capital": "Victoria",
+        "name": "Seychelles",
+        "currencies": [
+            "SCR"
+        ],
+        "timezones": [
+            "UTC+04:00"
+        ],
+        "languages": [
+            "fr",
+            "en"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "248"
+        ],
+        "numericCode": 690,
+        "abbrevation": {
+            "alpha3Code": "syc",
+            "alpha2Code": "sc"
+        }
+    },
+    {
+        "capital": "Freetown",
+        "name": "Sierra Leone",
+        "currencies": [
+            "SLL"
+        ],
+        "timezones": [
+            "UTC"
+        ],
+        "languages": [
+            "en"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "232"
+        ],
+        "numericCode": 694,
+        "abbrevation": {
+            "alpha3Code": "sle",
+            "alpha2Code": "sl"
+        }
+    },
+    {
+        "capital": "Singapore",
+        "name": "Singapore",
+        "currencies": [
+            "SGD"
+        ],
+        "timezones": [
+            "UTC+08:00"
+        ],
+        "languages": [
+            "en",
+            "ms",
+            "ta",
+            "zh"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "65"
+        ],
+        "numericCode": 702,
+        "abbrevation": {
+            "alpha3Code": "sgp",
+            "alpha2Code": "sg"
+        }
+    },
+    {
+        "capital": "Philipsburg",
+        "name": "Sint Maarten",
+        "currencies": [
+            "ANG"
+        ],
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "languages": [
+            "nl",
+            "en"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "1721"
+        ],
+        "numericCode": 534,
+        "abbrevation": {
+            "alpha3Code": "sxm",
+            "alpha2Code": "sx"
+        }
+    },
+    {
+        "capital": "Bratislava",
+        "name": "Slovakia",
+        "currencies": [
+            "EUR"
+        ],
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "languages": [
+            "sk"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "421"
+        ],
+        "numericCode": 703,
+        "abbrevation": {
+            "alpha3Code": "svk",
+            "alpha2Code": "sk"
+        }
+    },
+    {
+        "capital": "Ljubljana",
+        "name": "Slovenia",
+        "currencies": [
+            "EUR"
+        ],
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "languages": [
+            "sl"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "386"
+        ],
+        "numericCode": 705,
+        "abbrevation": {
+            "alpha3Code": "svn",
+            "alpha2Code": "si"
+        }
+    },
+    {
+        "capital": "Honiara",
+        "name": "Solomon Islands",
+        "currencies": [
+            "SBD"
+        ],
+        "timezones": [
+            "UTC+11:00"
+        ],
+        "languages": [
+            "en"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "677"
+        ],
+        "numericCode": 90,
+        "abbrevation": {
+            "alpha3Code": "slb",
+            "alpha2Code": "sb"
+        }
+    },
+    {
+        "capital": "Mogadishu",
+        "name": "Somalia",
+        "currencies": [
+            "SOS"
+        ],
+        "timezones": [
+            "UTC+03:00"
+        ],
+        "languages": [
+            "so",
+            "ar"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "252"
+        ],
+        "numericCode": 706,
+        "abbrevation": {
+            "alpha3Code": "som",
+            "alpha2Code": "so"
+        }
+    },
+    {
+        "capital": "Pretoria",
+        "name": "South Africa",
+        "currencies": [
+            "ZAR"
+        ],
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "languages": [
+            "af",
+            "en",
+            "nr",
+            "st",
+            "ss",
+            "tn",
+            "ts",
+            "ve",
+            "xh",
+            "zu"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "27"
+        ],
+        "numericCode": 710,
+        "abbrevation": {
+            "alpha3Code": "zaf",
+            "alpha2Code": "za"
+        }
+    },
+    {
+        "capital": "King Edward Point",
+        "name": "South Georgia",
+        "currencies": [
+            "GBP"
+        ],
+        "timezones": [
+            "UTC-02:00"
+        ],
+        "languages": [
+            "en"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "500"
+        ],
+        "numericCode": 239,
+        "abbrevation": {
+            "alpha3Code": "sgs",
+            "alpha2Code": "gs"
+        }
+    },
+    {
+        "capital": "Seoul",
+        "name": "South Korea",
+        "currencies": [
+            "KRW"
+        ],
+        "timezones": [
+            "UTC+09:00"
+        ],
+        "languages": [
+            "ko"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "82"
+        ],
+        "numericCode": 410,
+        "abbrevation": {
+            "alpha3Code": "kor",
+            "alpha2Code": "kr"
+        }
+    },
+    {
+        "capital": "Juba",
+        "name": "South Sudan",
+        "currencies": [
+            "SSP"
+        ],
+        "timezones": [
+            "UTC+03:00"
+        ],
+        "languages": [
+            "en"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "211"
+        ],
+        "numericCode": 728,
+        "abbrevation": {
+            "alpha3Code": "ssd",
+            "alpha2Code": "ss"
+        }
+    },
+    {
+        "capital": "Madrid",
+        "name": "Spain",
+        "currencies": [
+            "EUR"
+        ],
+        "timezones": [
+            "UTC",
+            "UTC+01:00"
+        ],
+        "languages": [
+            "es"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "34"
+        ],
+        "numericCode": 724,
+        "abbrevation": {
+            "alpha3Code": "esp",
+            "alpha2Code": "es"
+        }
+    },
+    {
+        "capital": "Colombo",
+        "name": "Sri Lanka",
+        "currencies": [
+            "LKR"
+        ],
+        "timezones": [
+            "UTC+05:30"
+        ],
+        "languages": [
+            "si",
+            "ta"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "94"
+        ],
+        "numericCode": 144,
+        "abbrevation": {
+            "alpha3Code": "lka",
+            "alpha2Code": "lk"
+        }
+    },
+    {
+        "capital": "Khartoum",
+        "name": "Sudan",
+        "currencies": [
+            "SDG"
+        ],
+        "timezones": [
+            "UTC+03:00"
+        ],
+        "languages": [
+            "ar",
+            "en"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "249"
+        ],
+        "numericCode": 729,
+        "abbrevation": {
+            "alpha3Code": "sdn",
+            "alpha2Code": "sd"
+        }
+    },
+    {
+        "capital": "Paramaribo",
+        "name": "Suriname",
+        "currencies": [
+            "SRD"
+        ],
+        "timezones": [
+            "UTC-03:00"
+        ],
+        "languages": [
+            "nl"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "597"
+        ],
+        "numericCode": 740,
+        "abbrevation": {
+            "alpha3Code": "sur",
+            "alpha2Code": "sr"
+        }
+    },
+    {
+        "capital": "Longyearbyen",
+        "name": "Svalbard and Jan Mayen",
+        "currencies": [
+            "NOK"
+        ],
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "languages": [
+            "no"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "4779"
+        ],
+        "numericCode": 744,
+        "abbrevation": {
+            "alpha3Code": "sjm",
+            "alpha2Code": "sj"
+        }
+    },
+    {
+        "capital": "Lobamba",
+        "name": "Swaziland",
+        "currencies": [
+            "SZL"
+        ],
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "languages": [
+            "en",
+            "ss"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "268"
+        ],
+        "numericCode": 748,
+        "abbrevation": {
+            "alpha3Code": "swz",
+            "alpha2Code": "sz"
+        }
+    },
+    {
+        "capital": "Stockholm",
+        "name": "Sweden",
+        "currencies": [
+            "SEK"
+        ],
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "languages": [
+            "sv"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "46"
+        ],
+        "numericCode": 752,
+        "abbrevation": {
+            "alpha3Code": "swe",
+            "alpha2Code": "se"
+        }
+    },
+    {
+        "capital": "Bern",
+        "name": "Switzerland",
+        "currencies": [
+            "CHE",
+            "CHF",
+            "CHW"
+        ],
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "languages": [
+            "de",
+            "fr",
+            "it"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "41"
+        ],
+        "numericCode": 756,
+        "abbrevation": {
+            "alpha3Code": "che",
+            "alpha2Code": "ch"
+        }
+    },
+    {
+        "capital": "Damascus",
+        "name": "Syria",
+        "currencies": [
+            "SYP"
+        ],
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "languages": [
+            "ar"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "963"
+        ],
+        "numericCode": 760,
+        "abbrevation": {
+            "alpha3Code": "syr",
+            "alpha2Code": "sy"
+        }
+    },
+    {
+        "capital": "São Tomé",
+        "name": "São Tomé and Príncipe",
+        "currencies": [
+            "STD"
+        ],
+        "timezones": [
+            "UTC"
+        ],
+        "languages": [
+            "pt"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "239"
+        ],
+        "numericCode": 678,
+        "abbrevation": {
+            "alpha3Code": "stp",
+            "alpha2Code": "st"
+        }
+    },
+    {
+        "capital": "Taipei",
+        "name": "Taiwan",
+        "currencies": [
+            "TWD"
+        ],
+        "timezones": [
+            "UTC+08:00"
+        ],
+        "languages": [
+            "zh"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "886"
+        ],
+        "numericCode": 158,
+        "abbrevation": {
+            "alpha3Code": "twn",
+            "alpha2Code": "tw"
+        }
+    },
+    {
+        "capital": "Dushanbe",
+        "name": "Tajikistan",
+        "currencies": [
+            "TJS"
+        ],
+        "timezones": [
+            "UTC+05:00"
+        ],
+        "languages": [
+            "tg",
+            "ru"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "992"
+        ],
+        "numericCode": 762,
+        "abbrevation": {
+            "alpha3Code": "tjk",
+            "alpha2Code": "tj"
+        }
+    },
+    {
+        "capital": "Dodoma",
+        "name": "Tanzania",
+        "currencies": [
+            "TZS"
+        ],
+        "timezones": [
+            "UTC+03:00"
+        ],
+        "languages": [
+            "sw",
+            "en"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "255"
+        ],
+        "numericCode": 834,
+        "abbrevation": {
+            "alpha3Code": "tza",
+            "alpha2Code": "tz"
+        }
+    },
+    {
+        "capital": "Bangkok",
+        "name": "Thailand",
+        "currencies": [
+            "THB"
+        ],
+        "timezones": [
+            "UTC+07:00"
+        ],
+        "languages": [
+            "th"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "66"
+        ],
+        "numericCode": 764,
+        "abbrevation": {
+            "alpha3Code": "tha",
+            "alpha2Code": "th"
+        }
+    },
+    {
+        "capital": "Nassau",
+        "name": "The Bahamas",
+        "currencies": [
+            "BSD"
+        ],
+        "timezones": [
+            "UTC-05:00"
+        ],
+        "languages": [
+            "en"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "1242"
+        ],
+        "numericCode": 44,
+        "abbrevation": {
+            "alpha3Code": "bhs",
+            "alpha2Code": "bs"
+        }
+    },
+    {
+        "capital": "Banjul",
+        "name": "The Gambia",
+        "currencies": [
+            "GMD"
+        ],
+        "timezones": [
+            "UTC+00:00"
+        ],
+        "languages": [
+            "en"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "220"
+        ],
+        "numericCode": 270,
+        "abbrevation": {
+            "alpha3Code": "gmb",
+            "alpha2Code": "gm"
+        }
+    },
+    {
+        "capital": "Lomé",
+        "name": "Togo",
+        "currencies": [
+            "XOF"
+        ],
+        "timezones": [
+            "UTC"
+        ],
+        "languages": [
+            "fr"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "228"
+        ],
+        "numericCode": 768,
+        "abbrevation": {
+            "alpha3Code": "tgo",
+            "alpha2Code": "tg"
+        }
+    },
+    {
+        "capital": "Fakaofo",
+        "name": "Tokelau",
+        "currencies": [
+            "NZD"
+        ],
+        "timezones": [
+            "UTC+13:00"
+        ],
+        "languages": [
+            "en"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "690"
+        ],
+        "numericCode": 772,
+        "abbrevation": {
+            "alpha3Code": "tkl",
+            "alpha2Code": "tk"
+        }
+    },
+    {
+        "capital": "Nuku'alofa",
+        "name": "Tonga",
+        "currencies": [
+            "TOP"
+        ],
+        "timezones": [
+            "UTC+13:00"
+        ],
+        "languages": [
+            "en",
+            "to"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "676"
+        ],
+        "numericCode": 776,
+        "abbrevation": {
+            "alpha3Code": "ton",
+            "alpha2Code": "to"
+        }
+    },
+    {
+        "capital": "Port of Spain",
+        "name": "Trinidad and Tobago",
+        "currencies": [
+            "TTD"
+        ],
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "languages": [
+            "en"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "1868"
+        ],
+        "numericCode": 780,
+        "abbrevation": {
+            "alpha3Code": "tto",
+            "alpha2Code": "tt"
+        }
+    },
+    {
+        "capital": "Tunis",
+        "name": "Tunisia",
+        "currencies": [
+            "TND"
+        ],
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "languages": [
+            "ar"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "216"
+        ],
+        "numericCode": 788,
+        "abbrevation": {
+            "alpha3Code": "tun",
+            "alpha2Code": "tn"
+        }
+    },
+    {
+        "capital": "Ankara",
+        "name": "Turkey",
+        "currencies": [
+            "TRY"
+        ],
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "languages": [
+            "tr"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "90"
+        ],
+        "numericCode": 792,
+        "abbrevation": {
+            "alpha3Code": "tur",
+            "alpha2Code": "tr"
+        }
+    },
+    {
+        "capital": "Ashgabat",
+        "name": "Turkmenistan",
+        "currencies": [
+            "TMT"
+        ],
+        "timezones": [
+            "UTC+05:00"
+        ],
+        "languages": [
+            "tk",
+            "ru"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "993"
+        ],
+        "numericCode": 795,
+        "abbrevation": {
+            "alpha3Code": "tkm",
+            "alpha2Code": "tm"
+        }
+    },
+    {
+        "capital": "Cockburn Town",
+        "name": "Turks and Caicos Islands",
+        "currencies": [
+            "USD"
+        ],
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "languages": [
+            "en"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "1649"
+        ],
+        "numericCode": 796,
+        "abbrevation": {
+            "alpha3Code": "tca",
+            "alpha2Code": "tc"
+        }
+    },
+    {
+        "capital": "Funafuti",
+        "name": "Tuvalu",
+        "currencies": [
+            "AUD"
+        ],
+        "timezones": [
+            "UTC+12:00"
+        ],
+        "languages": [
+            "en"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "688"
+        ],
+        "numericCode": 798,
+        "abbrevation": {
+            "alpha3Code": "tuv",
+            "alpha2Code": "tv"
+        }
+    },
+    {
+        "capital": "Kampala",
+        "name": "Uganda",
+        "currencies": [
+            "UGX"
+        ],
+        "timezones": [
+            "UTC+03:00"
+        ],
+        "languages": [
+            "en",
+            "sw"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "256"
+        ],
+        "numericCode": 800,
+        "abbrevation": {
+            "alpha3Code": "uga",
+            "alpha2Code": "ug"
+        }
+    },
+    {
+        "capital": "Kiev",
+        "name": "Ukraine",
+        "currencies": [
+            "UAH"
+        ],
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "languages": [
+            "uk"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "380"
+        ],
+        "numericCode": 804,
+        "abbrevation": {
+            "alpha3Code": "ukr",
+            "alpha2Code": "ua"
+        }
+    },
+    {
+        "capital": "Abu Dhabi",
+        "name": "United Arab Emirates",
+        "currencies": [
+            "AED"
+        ],
+        "timezones": [
+            "UTC+04"
+        ],
+        "languages": [
+            "ar"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "971"
+        ],
+        "numericCode": 784,
+        "abbrevation": {
+            "alpha3Code": "are",
+            "alpha2Code": "ae"
+        }
+    },
+    {
+        "capital": "London",
+        "name": "United Kingdom",
+        "currencies": [
+            "GBP"
+        ],
+        "timezones": [
+            "UTC-08:00",
+            "UTC-05:00",
+            "UTC-04:00",
+            "UTC-03:00",
+            "UTC-02:00",
+            "UTC",
+            "UTC+01:00",
+            "UTC+02:00",
+            "UTC+06:00"
+        ],
+        "languages": [
+            "en"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "44"
+        ],
+        "numericCode": 826,
+        "abbrevation": {
+            "alpha3Code": "gbr",
+            "alpha2Code": "gb"
+        }
+    },
+    {
+        "capital": "Washington, D.C.",
+        "name": "United States",
+        "currencies": [
+            "USD",
+            "USN",
+            "USS"
+        ],
+        "timezones": [
+            "UTC-12:00",
+            "UTC-11:00",
+            "UTC-10:00",
+            "UTC-09:00",
+            "UTC-08:00",
+            "UTC-07:00",
+            "UTC-06:00",
+            "UTC-05:00",
+            "UTC-04:00",
+            "UTC+10:00",
+            "UTC+12:00"
+        ],
+        "languages": [
+            "en"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "1"
+        ],
+        "numericCode": 840,
+        "abbrevation": {
+            "alpha3Code": "usa",
+            "alpha2Code": "us"
+        }
+    },
+    {
+        "capital": "Montevideo",
+        "name": "Uruguay",
+        "currencies": [
+            "UYI",
+            "UYU"
+        ],
+        "timezones": [
+            "UTC-03:00"
+        ],
+        "languages": [
+            "es"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "598"
+        ],
+        "numericCode": 858,
+        "abbrevation": {
+            "alpha3Code": "ury",
+            "alpha2Code": "uy"
+        }
+    },
+    {
+        "capital": "Tashkent",
+        "name": "Uzbekistan",
+        "currencies": [
+            "UZS"
+        ],
+        "timezones": [
+            "UTC+05:00"
+        ],
+        "languages": [
+            "uz",
+            "ru"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "998"
+        ],
+        "numericCode": 860,
+        "abbrevation": {
+            "alpha3Code": "uzb",
+            "alpha2Code": "uz"
+        }
+    },
+    {
+        "capital": "Port Vila",
+        "name": "Vanuatu",
+        "currencies": [
+            "VUV"
+        ],
+        "timezones": [
+            "UTC+11:00"
+        ],
+        "languages": [
+            "bi",
+            "en",
+            "fr"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "678"
+        ],
+        "numericCode": 548,
+        "abbrevation": {
+            "alpha3Code": "vut",
+            "alpha2Code": "vu"
+        }
+    },
+    {
+        "capital": "Caracas",
+        "name": "Venezuela",
+        "currencies": [
+            "VEF"
+        ],
+        "timezones": [
+            "UTC-04:30"
+        ],
+        "languages": [
+            "es"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "58"
+        ],
+        "numericCode": 862,
+        "abbrevation": {
+            "alpha3Code": "ven",
+            "alpha2Code": "ve"
+        }
+    },
+    {
+        "capital": "Hanoi",
+        "name": "Vietnam",
+        "currencies": [
+            "VND"
+        ],
+        "timezones": [
+            "UTC+07:00"
+        ],
+        "languages": [
+            "vi"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "84"
+        ],
+        "numericCode": 704,
+        "abbrevation": {
+            "alpha3Code": "vnm",
+            "alpha2Code": "vn"
+        }
+    },
+    {
+        "capital": "Road Town",
+        "name": "Virgin Islands (British)",
+        "currencies": [
+            "USD"
+        ],
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "languages": [
+            "en"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "1284"
+        ],
+        "numericCode": 92,
+        "abbrevation": {
+            "alpha3Code": "vgb",
+            "alpha2Code": "vg"
+        }
+    },
+    {
+        "capital": "Charlotte Amalie",
+        "name": "Virgin Islands (U.S.)",
+        "currencies": [
+            "USD"
+        ],
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "languages": [
+            "en"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "1 340"
+        ],
+        "numericCode": 850,
+        "abbrevation": {
+            "alpha3Code": "vir",
+            "alpha2Code": "vi"
+        }
+    },
+    {
+        "capital": "Mata-Utu",
+        "name": "Wallis and Futuna",
+        "currencies": [
+            "XPF"
+        ],
+        "timezones": [
+            "UTC+12:00"
+        ],
+        "languages": [
+            "fr"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "681"
+        ],
+        "numericCode": 876,
+        "abbrevation": {
+            "alpha3Code": "wlf",
+            "alpha2Code": "wf"
+        }
+    },
+    {
+        "capital": "El Aaiún",
+        "name": "Western Sahara",
+        "currencies": [
+            "MAD",
+            "DZD",
+            "MRO"
+        ],
+        "timezones": [
+            "UTC+00:00"
+        ],
+        "languages": [
+            "es"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "212"
+        ],
+        "numericCode": 732,
+        "abbrevation": {
+            "alpha3Code": "esh",
+            "alpha2Code": "eh"
+        }
+    },
+    {
+        "capital": "Sana'a",
+        "name": "Yemen",
+        "currencies": [
+            "YER"
+        ],
+        "timezones": [
+            "UTC+03:00"
+        ],
+        "languages": [
+            "ar"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "967"
+        ],
+        "numericCode": 887,
+        "abbrevation": {
+            "alpha3Code": "yem",
+            "alpha2Code": "ye"
+        }
+    },
+    {
+        "capital": "Lusaka",
+        "name": "Zambia",
+        "currencies": [
+            "ZMW"
+        ],
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "languages": [
+            "en"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "260"
+        ],
+        "numericCode": 894,
+        "abbrevation": {
+            "alpha3Code": "zmb",
+            "alpha2Code": "zm"
+        }
+    },
+    {
+        "capital": "Harare",
+        "name": "Zimbabwe",
+        "currencies": [
+            "USD"
+        ],
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "languages": [
+            "en",
+            "sn",
+            "nd"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "263"
+        ],
+        "numericCode": 716,
+        "abbrevation": {
+            "alpha3Code": "zwe",
+            "alpha2Code": "zw"
+        }
+    },
+    {
+        "capital": "Mariehamn",
+        "name": "Åland Islands",
+        "currencies": [
+            "EUR"
+        ],
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "languages": [
+            "sv"
+        ],
+        "internationalDialingPrefix": null,
+        "callingCodes": [
+            "358"
+        ],
+        "numericCode": 248,
+        "abbrevation": {
+            "alpha3Code": "ala",
+            "alpha2Code": "ax"
+        }
+    }
+]
