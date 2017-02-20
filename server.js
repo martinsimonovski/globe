@@ -2,7 +2,7 @@ import express from 'express';
 import { graphqlExpress, graphiqlExpress } from 'graphql-server-express';
 import { addMockFunctionsToSchema } from 'graphql-tools';
 import bodyParser from 'body-parser';
-import schema from './data/schema';
+import schema from './data/schemaClean';
 
 const PORT = 8080;
 const app = express();

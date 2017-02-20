@@ -20,19 +20,11 @@ const schemaString = `
     alpha2Code: String
     alpha3Code: String
   }
-  
+
   type Query {
     countries(
-      id: [Int],
-      name: [String],
-      capital: [String],
-      language: [String],
-      currencies: [String],
-      abbrevations: [String],
-      timezones: [String],
-      callingCodes: [String]
+      id: [Int]
     ): [Country]
-    country(id: Int, name: String): Country
   }
 `;
 
