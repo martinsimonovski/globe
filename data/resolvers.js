@@ -111,6 +111,24 @@ const resolvers = {
       });
     },
   },
+  Viewer: {
+    countries(country, args, ctx) {
+      return Country.find({id: country.id})
+    },
+  },
+  CountryConnection: {
+    cursor() {
+      return "...";
+    },
+    edges(container, args, ctx) {
+      return container;
+    }
+  },
+  CountryEdge: {
+    node(edges, args, ctx) {
+      return edges;
+    }
+  }
 };
 
 export default resolvers;
