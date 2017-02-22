@@ -46,11 +46,13 @@ const CallingCodeModel = db.define('callingCode', {
 CountryModel.hasMany(CallingCodeModel);
 CallingCodeModel.belongsTo(CountryModel);
 
+/*
 const Country = db.models.country;
 const Abbrevation = db.models.abbrevation;
 const Currency = db.models.currency;
 const Timezone = db.models.timezone;
 const Language = db.models.language;
 const CallingCode = db.models.callingCode;
+*/
 
-export { Country, Abbrevation, Currency, Timezone, Language, CallingCode, db };
+export default db;
