@@ -4,7 +4,6 @@ export async function getCountries(db, { first, last }) {
   return await applyPagination(
     query, first, last
   );
-
 }
 
 async function applyPagination(query, first, last) {
@@ -16,7 +15,7 @@ async function applyPagination(query, first, last) {
     });
 
     let limit = 0;
-    let skip = 0;;
+    let skip = 0;
 
     if (first && count > first) {
       limit = first;
@@ -28,15 +27,16 @@ async function applyPagination(query, first, last) {
         limit = limit - skip;
       } else if (!limit && count > last) {
         skip = count - last;
+        limit = count - skip;
       }
     }
 
-    // if (skip)
-    //   query.skip(skip);
-
-    // if (limit)
-    //   query.limit(limit);
-    await query.findAndCountAll({offset: skip, limit: limit}).then((result) => {
+    // offset can't be used without limit > 0
+    let options = {
+      offset: skip,
+      limit: limit
+    }
+    await query.findAndCountAll(options).then((result) => {
       query = result.rows;
     });
 

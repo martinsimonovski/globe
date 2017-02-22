@@ -45,9 +45,12 @@ const CountryConnection = new GraphQLObjectType({
         return parent.query;
       },
     },
-    // pageInfo: {
-    //   type: new GraphQLNonNull(PageInfo),
-    // },
+    pageInfo: {
+      type: new GraphQLNonNull(PageInfo),
+      resolve(parent){
+        return parent.pageInfo;
+      }
+    },
   }),
 });
 
