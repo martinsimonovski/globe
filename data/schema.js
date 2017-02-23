@@ -68,7 +68,6 @@ const CountryEdge = new GraphQLObjectType({
     node: {
       type: Country,
       resolve(parent) {
-        console.log(parent);
         return parent;
       }
     },

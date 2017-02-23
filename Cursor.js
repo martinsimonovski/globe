@@ -9,7 +9,7 @@ export function toCursor({ value }) {
 export function fromCursor(string) {
   const value = Base64URL.decode(string);
   if (value) {
-    return { value };
+    return value;
   } else {
     return null;
   }

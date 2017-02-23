@@ -1,12 +1,12 @@
-export async function getCountries(db, { first, last }) {
-  const query = db.models.country;
+export async function getCountries(db, { first, last, before, after }) {
+  const query =  db.models.country;
 
   return await applyPagination(
-    query, first, last
+    query, first, last, before, after
   );
 }
 
-async function applyPagination(query, first, last) {
+async function applyPagination(query, first, last, before, after) {
   let count;
 
   if ( first || last ) {
@@ -36,6 +36,22 @@ async function applyPagination(query, first, last) {
       offset: skip,
       limit: limit
     }
+
+    if (before || after){
+      options.where = {
+        id: {
+
+        }
+      };
+      if(before){
+        options.where.id.$lt = before;
+      }
+
+      if(after){
+        options.where.id.$gt = after;
+      }
+    }
+
     await query.findAndCountAll(options).then((result) => {
       query = result.rows;
     });
