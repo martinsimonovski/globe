@@ -4,7 +4,7 @@ import {
   GraphQLBoolean,
   GraphQLID
 } from 'graphql';
-import { createConnectionArguments } from './viewerFunctions';
+import { createConnectionArguments, createCountryConnectionArguments } from './viewerFunctions';
 import { CountryConnection } from './../Country/countrySchema';
 import { getCountries } from './../Country/getCountries';
 
@@ -16,7 +16,7 @@ export const Viewer = new GraphQLObjectType({
     },
     allCountries: {
       type: CountryConnection,
-      args: createConnectionArguments(),
+      args: Object.assign({}, createConnectionArguments(), createCountryConnectionArguments()),
       resolve(parent, args, { db }) {
         return getCountries(db, args);
       },

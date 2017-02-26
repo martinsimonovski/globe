@@ -23,3 +23,14 @@ export function createConnectionArguments() {
     }
   };
 }
+
+export function createCountryConnectionArguments(){
+  return {
+    id: {
+      type: GraphQLInt
+    },
+    name: {
+      type: GraphQLString
+    }
+  }
+}

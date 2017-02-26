@@ -6,6 +6,7 @@ import {
   GraphQLList
 } from 'graphql';
 import { PageInfo, Cursor } from './../../types';
+import { Abbrevation } from './../Abbrevation/AbbrevationSchema';
 
 export const Country = new GraphQLObjectType({
   name: 'Country',
@@ -19,6 +20,56 @@ export const Country = new GraphQLObjectType({
     capital: {
       type: new GraphQLNonNull(GraphQLString)
     },
+    abbrevations: {
+        type: Abbrevation,
+        resolve (parent) { //parent is 1 Country of sequelize model
+          return parent.getAbbrevation();
+        }
+    },
+    languages: {
+      type: new GraphQLList(GraphQLString),
+      resolve (parent) { //parent is 1 Country of sequelize model
+        return parent.getLanguages().then( (result) => {
+          var names = result.map(function(item) {
+            return item.shortCode;
+          });
+          return names;
+        });
+      }
+    },
+    currencies: {
+      type: new GraphQLList(GraphQLString),
+      resolve (parent) { //parent is 1 Country of sequelize model
+        return parent.getCurrencies().then( (result) => {
+          var names = result.map(function(item) {
+            return item.shortCode;
+          });
+          return names;
+        });
+      }
+    },
+    timezones: { //parent is 1 Country of sequelize model
+      type: new GraphQLList(GraphQLString),
+      resolve (parent) {
+        return parent.getTimezones().then( (result) => {
+          var names = result.map(function(item) {
+            return item.shortCode;
+          });
+          return names;
+        });
+      }
+    },
+    callingCodes: {
+      type: new GraphQLList(GraphQLString),
+      resolve (parent) { //parent is 1 Country of sequelize model
+        return parent.getCallingCodes().then( (result) => {
+          var names = result.map(function(item) {
+            return item.code;
+          });
+          return names;
+        });
+      },
+    },
   }),
 });
 
@@ -27,7 +78,7 @@ export const CountryConnection = new GraphQLObjectType({
   fields: () => ({
     edges: {
       type: new GraphQLList(CountryEdge),
-      resolve(parent) {
+      resolve(parent, args) {
         return parent.query;
       },
     },
