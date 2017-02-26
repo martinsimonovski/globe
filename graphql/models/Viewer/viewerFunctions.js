@@ -1,4 +1,4 @@
-import { GraphQLInt } from 'graphql';
+import { GraphQLInt, GraphQLString } from 'graphql';
 import { Cursor } from './../../types';
 
 export function createConnectionArguments() {
@@ -14,6 +14,12 @@ export function createConnectionArguments() {
     },
     after: {
       type: Cursor,
+    },
+    orderField: {
+      type: GraphQLString
+    },
+    order: {
+      type: GraphQLInt
     }
   };
 }

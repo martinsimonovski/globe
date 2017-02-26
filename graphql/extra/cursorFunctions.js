@@ -1,5 +1,4 @@
 import Base64URL from 'base64-url';
-import { Kind } from 'graphql/language';
 
 export function toCursor({ value }) {
   return Base64URL.encode(value.toString());

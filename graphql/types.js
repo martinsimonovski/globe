@@ -5,6 +5,7 @@ import {
   GraphQLScalarType
 } from 'graphql';
 import { toCursor, fromCursor } from './extra/cursorFunctions';
+import { Kind } from 'graphql/language';
 
 export const PageInfo = new GraphQLObjectType({
   name: 'PageInfo',

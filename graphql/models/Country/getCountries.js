@@ -1,12 +1,14 @@
-export async function getCountries(db, { first, last, before, after }) {
+export async function getCountries(db, { first, last, before, after, orderField, order}) {
   const query =  db.models.country;
+  let options = cursorOptions({}, before, after);
+  options = orderOptions(options, orderField, order);
 
   return await applyPagination(
-    query, first, last, before, after
+    query, options, first, last
   );
 }
 
-async function applyPagination(query, first, last, before, after) {
+async function applyPagination(query, options, first, last) {
   let count;
 
   if ( first || last ) {
@@ -32,25 +34,8 @@ async function applyPagination(query, first, last, before, after) {
     }
 
     // offset can't be used without limit > 0
-    let options = {
-      offset: skip,
-      limit: limit
-    }
-
-    if (before || after){
-      options.where = {
-        id: {
-
-        }
-      };
-      if(before){
-        options.where.id.$lt = before;
-      }
-
-      if(after){
-        options.where.id.$gt = after;
-      }
-    }
+    options.offset = skip;
+    options.limit = limit;
 
     await query.findAndCountAll(options).then((result) => {
       query = result.rows;
@@ -64,4 +49,36 @@ async function applyPagination(query, first, last, before, after) {
       }
     }
   }
+}
+
+function cursorOptions(options, before, after){
+  if (before || after){
+    options.where = {
+      id: {}
+    };
+    if(before){
+      options.where.id.$lt = before;
+    }
+
+    if(after){
+      options.where.id.$gt = after;
+    }
+  }
+
+  return options;
+}
+
+function orderOptions(options, orderField, orderDirection){
+  if(typeof orderField !== 'undefined' && orderField){
+    options.order = orderField;
+  } else {
+    options.order = 'id';
+  }
+
+  if(typeof orderDirection !== 'undefined' && orderDirection == -1){
+    options.order = options.order + ' DESC';
+  } else {
+    options.order = options.order + ' ASC';
+  }
+  return options;
 }
