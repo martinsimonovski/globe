@@ -1,9 +1,8 @@
 import express from 'express';
 import { graphqlExpress, graphiqlExpress } from 'graphql-server-express';
-import { addMockFunctionsToSchema } from 'graphql-tools';
 import bodyParser from 'body-parser';
-import schema from './data/schema';
-import db from './data/connectors';
+import schema from './graphql/rootSchema';
+import db from './database/connectors';
 
 const PORT = 8080;
 const app = express();

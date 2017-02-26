@@ -1,3 +1,6 @@
+/*
+needs revork
+*/
 import fs from 'fs';
 import sequelize from 'sequelize';
 import { Country, Abbrevation, Currency, Timezone, Language, CallingCode, db } from './data/connectors';

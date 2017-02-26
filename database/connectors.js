@@ -2,7 +2,7 @@ import Sequilize from 'sequelize';
 
 const db = new Sequilize('globe', null, null, {
   dialect: 'sqlite',
-  storage: './globe.sqlite',
+  storage: './database/globe.sqlite',
 });
 
 const CountryModel = db.define('country', {
@@ -45,14 +45,5 @@ const CallingCodeModel = db.define('callingCode', {
 
 CountryModel.hasMany(CallingCodeModel);
 CallingCodeModel.belongsTo(CountryModel);
-
-/*
-const Country = db.models.country;
-const Abbrevation = db.models.abbrevation;
-const Currency = db.models.currency;
-const Timezone = db.models.timezone;
-const Language = db.models.language;
-const CallingCode = db.models.callingCode;
-*/
 
 export default db;

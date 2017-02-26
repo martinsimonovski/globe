@@ -8,7 +8,7 @@
   "scripts": {
     "start": "nodemon ./server.js --exec babel-node",
     "lint": "eslint .",
-    "seed": "babel-node seedSQlite.js"
+    "seed": "babel-node database/seedSQlite.js"
   },
   "dependencies": {
     "base64-url": "^1.3.3",
