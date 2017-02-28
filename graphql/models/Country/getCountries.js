@@ -1,11 +1,16 @@
-import { ABBREVATION, LANGUAGE, TIMEZONE, CURRENCY, CALLINGCODE } from './../../../utils/constants';
+import { ID,
+         NAME,
+         CAPITAL,
+         ABBREVATION,
+         LANGUAGE,
+         TIMEZONE,
+         CURRENCY,
+         CALLINGCODE } from './../../../utils/constants';
 
-export async function getCountries(db, { first, last, before, after, orderField, order,
-          id, name, capital, search, criteria}) {
+export async function getCountries(db, { first, last, before, after, orderField, order, search, criteria}) {
   const query =  db.models.country;
 
-  let options = whereOptions({}, {id, name});
-  options = searchOptions({}, db, {search, criteria})
+  let options = searchOptions({}, db, {search, criteria})
   options = cursorOptions(options, before, after);
   options = orderOptions(options, query, orderField, order);
 
@@ -34,6 +39,7 @@ function whereOptions(options, args){
 
 function searchOptions(options, db, args){
   let include = [];
+  options.where = {};
 
   if ( args.search == undefined)
     return options;
@@ -41,7 +47,14 @@ function searchOptions(options, db, args){
   if (args.criteria == undefined)
     return options;
 
-  if (args.criteria == LANGUAGE || args.criteria == CURRENCY || args.criteria == TIMEZONE){
+  if (args.criteria == ID){
+    options.where.id = args.search;
+
+  } else if( args.criteria == NAME || args.criteria == CAPITAL ){
+    options.where[args.criteria] = {
+        $like: '%' + args.search + '%'
+    }
+  } else if (args.criteria == LANGUAGE || args.criteria == CURRENCY || args.criteria == TIMEZONE){
     include.push({
         model: db.models[args.criteria],
         where: { shortCode: args.search},

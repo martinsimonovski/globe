@@ -8,7 +8,7 @@ import {
 import { toCursor, fromCursor } from './extra/cursorFunctions';
 import { Kind } from 'graphql/language';
 import makeEnumValues from './makeEnumValues';
-import { ABBREVATION, LANGUAGE, TIMEZONE, CURRENCY, CALLINGCODE } from './../utils/constants';
+import { ID, NAME, CAPITAL, ABBREVATION, LANGUAGE, TIMEZONE, CURRENCY, CALLINGCODE } from './../utils/constants';
 
 export const PageInfo = new GraphQLObjectType({
   name: 'PageInfo',
@@ -47,6 +47,9 @@ export const CriteriaType = new GraphQLEnumType({
   name: 'CriteriaType',
   description: 'Search by field',
   values: makeEnumValues([
+    ID,
+    NAME,
+    CAPITAL,
     ABBREVATION,
     LANGUAGE,
     TIMEZONE,
