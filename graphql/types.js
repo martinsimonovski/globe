@@ -2,10 +2,13 @@ import {
   GraphQLObjectType,
   GraphQLNonNull,
   GraphQLBoolean,
-  GraphQLScalarType
+  GraphQLScalarType,
+  GraphQLEnumType
 } from 'graphql';
 import { toCursor, fromCursor } from './extra/cursorFunctions';
 import { Kind } from 'graphql/language';
+import makeEnumValues from './makeEnumValues';
+import { ABBREVATION, LANGUAGE, TIMEZONE, CURRENCY, CALLINGCODE } from './../utils/constants';
 
 export const PageInfo = new GraphQLObjectType({
   name: 'PageInfo',
@@ -38,4 +41,16 @@ export const Cursor = new GraphQLScalarType({
   parseValue(value) {
     return fromCursor(value);
   },
+});
+
+export const CriteriaType = new GraphQLEnumType({
+  name: 'CriteriaType',
+  description: 'Search by field',
+  values: makeEnumValues([
+    ABBREVATION,
+    LANGUAGE,
+    TIMEZONE,
+    CURRENCY,
+    CALLINGCODE
+  ])
 });

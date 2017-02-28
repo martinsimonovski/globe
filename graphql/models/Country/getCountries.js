@@ -1,9 +1,13 @@
+import { ABBREVATION, LANGUAGE, TIMEZONE, CURRENCY, CALLINGCODE } from './../../../utils/constants';
+
 export async function getCountries(db, { first, last, before, after, orderField, order,
-          id, name, capital}) {
+          id, name, capital, search, criteria}) {
   const query =  db.models.country;
-  let options = whereOptions({}, {id, name})
+
+  let options = whereOptions({}, {id, name});
+  options = searchOptions({}, db, {search, criteria})
   options = cursorOptions(options, before, after);
-  options = orderOptions(options, orderField, order);
+  options = orderOptions(options, query, orderField, order);
 
   return await applyPagination(
     query, options, first, last
@@ -28,9 +32,45 @@ function whereOptions(options, args){
   return options;
 }
 
+function searchOptions(options, db, args){
+  let include = [];
+
+  if ( args.search == undefined)
+    return options;
+
+  if (args.criteria == undefined)
+    return options;
+
+  if (args.criteria == LANGUAGE || args.criteria == CURRENCY || args.criteria == TIMEZONE){
+    include.push({
+        model: db.models[args.criteria],
+        where: { shortCode: args.search},
+    });
+  } else if ( args.criteria == CALLINGCODE ) {
+    include.push({
+        model: db.models.callingCode,
+        where: { code: args.search},
+    });
+  } else if ( args.criteria == ABBREVATION ) {
+    include.push({
+        model: db.models.abbrevation,
+        where: {
+          $or:[
+              {alpha3Code: args.search},
+              {alpha2Code: args.search}
+            ]
+        }
+      });
+  }
+
+  options.include = include;
+
+  return options;
+}
+
 function cursorOptions(options, before, after){
   if (before || after){
-    console.log(before, after);
+
     options.where.id = {};
     if(before){
       options.where.id.$lt = before;
@@ -44,18 +84,22 @@ function cursorOptions(options, before, after){
   return options;
 }
 
-function orderOptions(options, orderField, orderDirection){
+function orderOptions(options, query, orderField, orderDirection){
+  let order = [];
+
   if(typeof orderField !== 'undefined' && orderField){
-    options.order = orderField;
+    order.push(orderField);
   } else {
-    options.order = 'id';
+    order.push('id');
   }
 
   if(typeof orderDirection !== 'undefined' && orderDirection == -1){
-    options.order = options.order + ' DESC';
+    order.push('DESC');
   } else {
-    options.order = options.order + ' ASC';
+    order.push('ASC');
   }
+
+  options.order = [order];
   return options;
 }
 

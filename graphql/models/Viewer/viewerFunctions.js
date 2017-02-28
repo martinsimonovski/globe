@@ -1,5 +1,5 @@
-import { GraphQLInt, GraphQLString } from 'graphql';
-import { Cursor } from './../../types';
+import { GraphQLInt, GraphQLString, GraphQLList } from 'graphql';
+import { Cursor, CriteriaType } from './../../types';
 
 export function createConnectionArguments() {
   return {
@@ -31,6 +31,12 @@ export function createCountryConnectionArguments(){
     },
     name: {
       type: GraphQLString
+    },
+    search: {
+      type: new GraphQLList(GraphQLString)
+    },
+    criteria: {
+      type: CriteriaType
     }
   }
 }
