@@ -3,13 +3,15 @@ import {
   GraphQLNonNull,
   GraphQLID,
   GraphQLString,
-  GraphQLList
+  GraphQLList,
+  GraphQLInt
 } from 'graphql';
 import { PageInfo, Cursor } from './../../types';
 import { Abbrevation } from './../Abbrevation/AbbrevationSchema';
 
 export const Country = new GraphQLObjectType({
   name: 'Country',
+  
   fields: () => ({
     id: {
       type: new GraphQLNonNull(GraphQLID),
