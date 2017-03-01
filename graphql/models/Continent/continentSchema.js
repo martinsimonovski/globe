@@ -3,7 +3,8 @@ import {
     GraphQLNonNull,
     GraphQLID,
     GraphQLString,
-    GraphQLList
+    GraphQLList,
+    GraphQLInputObjectType
 } from 'graphql';
 import { Country } from './../Country/countrySchema';
 
@@ -26,5 +27,16 @@ export const Continent = new GraphQLObjectType({
         //     }
         // }
     })
+});
 
+export const ContinentInput = new GraphQLInputObjectType({
+    name: 'ContinentInput',
+    fields: () => ({
+        name: {
+            type: new GraphQLNonNull(GraphQLString)
+        },
+        code: {
+            type: new GraphQLNonNull(GraphQLString)
+        }
+    })
 });
