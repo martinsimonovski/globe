@@ -16,7 +16,7 @@ const CountryModel = db.define('country', {
 });
 
 ContinentModel.hasMany(CountryModel);
-CountryModel.hasOne(ContinentModel);
+CountryModel.belongsTo(ContinentModel);
 
 const AbbrevationModel = db.define('abbrevation', {
   alpha3Code: { type: Sequilize.STRING },
