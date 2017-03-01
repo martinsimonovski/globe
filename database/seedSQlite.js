@@ -6,7 +6,8 @@ import sequelize from 'sequelize';
 import { Country, Abbrevation, Currency, Timezone, Language, CallingCode, db } from './data/connectors';
 const countries = JSON.parse(fs.readFileSync('data/countries.json'));
 
-db.sync({ force: true }).then(() => {
+/*
+db.sync({ force: false }).then(() => { //true if we want to drop and recreate
   countries.forEach(function(element) {
     return Country.create({
       name: element.name,
@@ -45,3 +46,4 @@ db.sync({ force: true }).then(() => {
     });
   });
 });
+*/

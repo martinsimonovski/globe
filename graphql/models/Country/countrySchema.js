@@ -11,7 +11,6 @@ import { Abbrevation } from './../Abbrevation/AbbrevationSchema';
 
 export const Country = new GraphQLObjectType({
   name: 'Country',
-  
   fields: () => ({
     id: {
       type: new GraphQLNonNull(GraphQLID),

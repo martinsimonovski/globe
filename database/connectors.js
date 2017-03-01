@@ -5,10 +5,18 @@ const db = new Sequilize('globe', null, null, {
   storage: './database/globe.sqlite',
 });
 
+const ContinentModel = db.define('continent', {
+    name: { type: Sequilize.STRING },
+    code: { type: Sequilize.STRING }
+});
+
 const CountryModel = db.define('country', {
   name: { type: Sequilize.STRING },
   capital: { type: Sequilize.STRING },
 });
+
+ContinentModel.hasMany(CountryModel);
+CountryModel.hasOne(ContinentModel);
 
 const AbbrevationModel = db.define('abbrevation', {
   alpha3Code: { type: Sequilize.STRING },

@@ -3,7 +3,9 @@ import { graphqlExpress, graphiqlExpress } from 'graphql-server-express';
 import bodyParser from 'body-parser';
 import schema from './graphql/rootSchema';
 import db from './database/connectors';
+import path from 'path';
 
+process.env.NODE_ENV = 'development';
 const PORT = 8080;
 const app = express();
 
