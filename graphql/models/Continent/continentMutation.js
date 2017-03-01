@@ -12,7 +12,10 @@ export default {
             }
         },
         resolve(parent, args, {db}) {
-            console.log(args);
+            return db.models.continent.create({
+                name: args.input.name,
+                code: args.input.code
+            });
         }
     }
 }
