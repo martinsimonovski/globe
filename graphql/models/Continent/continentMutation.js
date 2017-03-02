@@ -1,5 +1,5 @@
 import { GraphQLBoolean, GraphQLNonNull } from 'graphql';
-import { ContinentInput } from './continentSchema';
+import { createInput, deleteInput } from './continentSchema';
 
 export default {
     createContinent: {
@@ -7,7 +7,7 @@ export default {
         description: 'Create new continent based on name and code',
         args: {
             input: {
-                type: new GraphQLNonNull(ContinentInput),
+                type: new GraphQLNonNull(createInput),
                 description: 'The new input including an name, code'
             }
         },
@@ -17,5 +17,20 @@ export default {
                 code: args.input.code
             });
         }
-    }
+    },
+    deleteContinent: {
+      type: GraphQLBoolean,
+      description: 'Delete continent based on id',
+      args: {
+        input: {
+          type: new GraphQLNonNull(deleteInput),
+          description: 'The input includes the id'
+        }
+      },
+      resolve(parent, args, {db}){
+        return db.models.continent.destroy({
+          where: args.input
+        });
+      }
+    },
 }

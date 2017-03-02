@@ -4,7 +4,8 @@ import {
   GraphQLID,
   GraphQLString,
   GraphQLList,
-  GraphQLInt
+  GraphQLInt,
+  GraphQLInputObjectType
 } from 'graphql';
 import { PageInfo, Cursor } from './../../types';
 import { Abbrevation } from './../Abbrevation/AbbrevationSchema';
@@ -110,4 +111,22 @@ export const CountryEdge = new GraphQLObjectType({
       }
     },
   }),
+});
+
+export const updateInput = new GraphQLInputObjectType({
+  name: 'UpdateInput',
+  fields: () => ({
+    id: {
+      type: GraphQLID,
+      description: 'The id of the country that we wan\'t to update'
+    },
+    continentId: {
+      type: new GraphQLNonNull(GraphQLID),
+      description: 'The id of the continent where the country is at'
+    },
+    name: {
+      type: new GraphQLList(GraphQLString),
+      description: 'List of country names'
+    }
+  })
 });

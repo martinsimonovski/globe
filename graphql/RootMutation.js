@@ -1,8 +1,10 @@
 import { GraphQLObjectType } from 'graphql';
 import continent from './models/Continent/continentMutation';
+import country from './models/Country/countryMutation';
 
 const rootFields = Object.assign({},
-    continent
+    continent,
+    country
 );
 
 export default new GraphQLObjectType({

@@ -1,4 +1,4 @@
-import { GraphQLInt, GraphQLObjectType, GraphQLString } from 'graphql';
+import { GraphQLInt, GraphQLObjectType, GraphQLString, GraphQLList } from 'graphql';
 import { Continent } from './continentSchema';
 
 export default {
@@ -21,5 +21,11 @@ export default {
         resolve (parent, args, {db}) {
             return db.models.continent.find({ where: args });
         },
+    },
+    continents: {
+      type: new GraphQLList(Continent),
+      resolve (parent, args, {db}) {
+        return db.models.continent.findAll();
+      }
     }
 }

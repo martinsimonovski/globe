@@ -7,6 +7,7 @@ import {
     GraphQLInputObjectType
 } from 'graphql';
 import { Country } from './../Country/countrySchema';
+import { Viewer } from './../Viewer/viewerSchema';
 
 export const Continent = new GraphQLObjectType({
     name: 'Continent',
@@ -20,17 +21,23 @@ export const Continent = new GraphQLObjectType({
         code: {
             type: new GraphQLNonNull(GraphQLString)
         },
-        // countries: {
-        //     type: new GraphQLList(Country),
-        //     resolve (parent) {
-        //         return parent.getCountries();
-        //     }
-        // }
+        countries: {
+            type: new GraphQLList(Country),
+            resolve (parent) {
+                return parent.getCountries();
+            }
+        },
+        viewer: {
+          type: Viewer,
+          resolve (parent) {
+            return parent;
+          }
+        }
     })
 });
 
-export const ContinentInput = new GraphQLInputObjectType({
-    name: 'ContinentInput',
+export const createInput = new GraphQLInputObjectType({
+    name: 'CreateInput',
     fields: () => ({
         name: {
             type: new GraphQLNonNull(GraphQLString)
@@ -40,3 +47,12 @@ export const ContinentInput = new GraphQLInputObjectType({
         }
     })
 });
+
+export const deleteInput = new GraphQLInputObjectType({
+  name: 'DeleteInput',
+  fields: () => ({
+    id: {
+      type: new GraphQLNonNull(GraphQLID)
+    }
+  })
+})
