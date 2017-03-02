@@ -32,16 +32,3 @@ export default {
     }
   }
 }
-
-/*
-Query:
-mutation($continentId: ID!, $countries: [String]){
-  updateCountry(input: {continentId: $continentId, name: $countries})
-}
-Query Variables:
-{
-  "continentId": 1,
-  countries: ["Algeria", "Angola"]
-}
-
-*/
