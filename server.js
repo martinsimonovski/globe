@@ -7,7 +7,7 @@ import db from './database/connectors';
 import path from 'path';
 
 process.env.NODE_ENV = 'development';
-const PORT = 8080;
+const PORT = 4000;
 const app = express();
 
 app.use('/graphql', bodyParser.json(), graphqlExpress({
