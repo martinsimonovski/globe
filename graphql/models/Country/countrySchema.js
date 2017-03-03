@@ -8,7 +8,7 @@ import {
   GraphQLInputObjectType
 } from 'graphql';
 import { PageInfo, Cursor } from './../../types';
-import { Abbrevation } from './../Abbrevation/AbbrevationSchema';
+import { Abbrevation } from './../Abbrevation/abbrevationSchema';
 
 export const Country = new GraphQLObjectType({
   name: 'Country',
