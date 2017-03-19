@@ -1,15 +1,21 @@
 import express from 'express';
 import { graphqlExpress, graphiqlExpress } from 'graphql-server-express';
-import { addMockFunctionsToSchema } from 'graphql-tools';
 import bodyParser from 'body-parser';
-import schema from './data/schema';
+import schema from './graphql/rootSchema';
+import mutation from './graphql/rootMutation';
+import db from './database/connectors';
+import path from 'path';
 
-const PORT = 8080;
+process.env.NODE_ENV = 'development';
+const PORT = 4000;
 const app = express();
 
 app.use('/graphql', bodyParser.json(), graphqlExpress({
   schema: schema,
-  context: {},
+  mutation: mutation,
+  context: {
+    db: db,
+  },
 })).use('/graphiql', graphiqlExpress({
   endpointURL: '/graphql',
 }));
